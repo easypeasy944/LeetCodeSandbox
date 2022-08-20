@@ -7,5 +7,25 @@
 
 import Foundation
 
-print("Hello, World!")
+protocol Runnable {
+    static func run()
+}
+
+struct Runner {
+    let runnables: [Runnable.Type]
+    
+    func run() {
+        for runnable in runnables {
+            print("==== Running \(String(describing: runnable))...")
+            runnable.run()
+            print("====", terminator: "\n")
+        }
+    }
+}
+
+Runner(
+    runnables: [
+        ZigzagConversion.self
+    ]
+).run()
 

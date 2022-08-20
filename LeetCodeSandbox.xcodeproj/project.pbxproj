@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
+		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
+		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
+		A46FD61128B1216A00D33AF7 /* TestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,27 @@
 		A46FD60528B11EBF00D33AF7 /* LeetCodeSandbox */ = {
 			isa = PBXGroup;
 			children = (
+				A46FD61028B1215D00D33AF7 /* Utilities */,
+				A46FD60D28B120EB00D33AF7 /* Solutions */,
 				A46FD60628B11EBF00D33AF7 /* main.swift */,
 			);
 			path = LeetCodeSandbox;
+			sourceTree = "<group>";
+		};
+		A46FD60D28B120EB00D33AF7 /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */,
+			);
+			path = Solutions;
+			sourceTree = "<group>";
+		};
+		A46FD61028B1215D00D33AF7 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				A46FD61128B1216A00D33AF7 /* TestCase.swift */,
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
+				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
+				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
