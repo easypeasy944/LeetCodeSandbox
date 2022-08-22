@@ -10,6 +10,7 @@
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
+		A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61328B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
 		A46FD61128B1216A00D33AF7 /* TestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCase.swift; sourceTree = "<group>"; };
+		A46FD61328B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. Letter Combinations of a Phone Number.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */,
+				A46FD61328B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
+				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -25,7 +25,7 @@ struct Runner {
 
 Runner(
     runnables: [
-        ZigzagConversion.self
+        LetterCombinationsOfAPhoneNumber.self
     ]
 ).run()
 
