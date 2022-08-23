@@ -7,25 +7,28 @@
 
 import Foundation
 
-protocol Runnable {
-    static func run()
+protocol SolutionProtocol {
+    var testCases: [Validatable] { get }
 }
 
 struct Runner {
-    let runnables: [Runnable.Type]
+    let solutions: [SolutionProtocol]
     
     func run() {
-        for runnable in runnables {
-            print("==== Running \(String(describing: runnable))...")
-            runnable.run()
+        for solution in solutions {
+            print("==== Running \(String(describing: solution))...")
+            solution.testCases.forEach { $0.validate() }
             print("====", terminator: "\n")
         }
     }
 }
 
 Runner(
-    runnables: [
-        LetterCombinationsOfAPhoneNumber.self
+    solutions: [
+        LetterCombinationsOfAPhoneNumber.Solution(),
+        RomanToInteger.Solution(),
+        ZigzagConversion.Solution(),
+        ThreeSum.Solution()
     ]
 ).run()
 

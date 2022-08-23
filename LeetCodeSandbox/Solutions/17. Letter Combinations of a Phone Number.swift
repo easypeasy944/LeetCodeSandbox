@@ -7,10 +7,9 @@
 
 import Foundation
 
-enum LetterCombinationsOfAPhoneNumber: Runnable {
+enum LetterCombinationsOfAPhoneNumber {
     
     class Solution {
-        
         let map = [
             "2": ["a", "b", "c"],
             "3": ["d", "e", "f"],
@@ -50,23 +49,14 @@ enum LetterCombinationsOfAPhoneNumber: Runnable {
             }
         }
     }
-    
-    static func run() {
-        let testCases = [
-            TestCase1(input1: "23", result: ["ad","ae","af","bd","be","bf","cd","ce","cf"]),
-            TestCase1(input1: "", result: []),
-            TestCase1(input1: "29", result: ["aw","ax","ay","az", "bw","bx","by","bz", "cw","cx","cy","cz"])
+}
+
+extension LetterCombinationsOfAPhoneNumber.Solution: SolutionProtocol {
+    var testCases: [Validatable] {
+        return [
+            TestCase1(input1: "23", result: ["ad","ae","af","bd","be","bf","cd","ce","cf"], func1: self.letterCombinations),
+            TestCase1(input1: "", result: [], func1: self.letterCombinations),
+            TestCase1(input1: "29", result: ["aw","ax","ay","az", "bw","bx","by","bz", "cw","cx","cy","cz"], func1: self.letterCombinations)
         ]
-        
-        let solution = Solution()
-        
-        for testCase in testCases {
-            let result = solution.letterCombinations(testCase.input1)
-            if result == testCase.result {
-                print("[SUCCESS]: Actual - \(result), expected - \(testCase.result)")
-            } else {
-                print("[FAILURE]: Actual - \(result), expected - \(testCase.result)")
-            }
-        }
     }
 }

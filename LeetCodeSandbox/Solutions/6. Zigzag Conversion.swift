@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum ZigzagConversion: Runnable {
+enum ZigzagConversion {
     
     class Solution {
         func convert(_ s: String, _ numRows: Int) -> String {
@@ -39,25 +39,17 @@ enum ZigzagConversion: Runnable {
             return result
         }
     }
-    
-    static func run() {
-        let testCases = [
-            TestCase2(input1: "PAYPALISHIRING", input2: 3, result: "PAHNAPLSIIGYIR"),
-            TestCase2(input1: "1", input2: 1, result: "1"),
-            TestCase2(input1: "ABCD", input2: 4, result: "ABCD"),
-            TestCase2(input1: "SsS", input2: 2, result: "SSs"),
-            TestCase2(input1: "AB", input2: 1, result: "AB"),
+}
+
+extension ZigzagConversion.Solution: SolutionProtocol {
+        
+    var testCases: [Validatable] {
+        return [
+            TestCase2(input1: "PAYPALISHIRING", input2: 3, result: "PAHNAPLSIIGYIR", func2: self.convert),
+            TestCase2(input1: "1", input2: 1, result: "1", func2: self.convert),
+            TestCase2(input1: "ABCD", input2: 4, result: "ABCD", func2: self.convert),
+            TestCase2(input1: "SsS", input2: 2, result: "SSs", func2: self.convert),
+            TestCase2(input1: "AB", input2: 1, result: "AB", func2: self.convert),
         ]
-        
-        let solution = Solution()
-        
-        for testCase in testCases {
-            let result = solution.convert(testCase.input1, testCase.input2)
-            if result == testCase.result {
-                print("[SUCCESS]: Actual - \(result), expected - \(testCase.result)")
-            } else {
-                print("[FAILURE]: Actual - \(result), expected - \(testCase.result)")
-            }
-        }
     }
 }
