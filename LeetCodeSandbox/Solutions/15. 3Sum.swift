@@ -33,10 +33,9 @@ enum ThreeSum {
 
 extension ThreeSum.Solution: SolutionProtocol {
     var testCases: [Validatable] {
-        let comparator: ([[Int]]) -> Set<[Int]> = { result in
-            var set = Set<[Int]>()
-            result.forEach { set.insert($0.sorted()) }
-            return set
+        let comparator: ([[Int]], [[Int]]) -> Bool = { (result1, result2) -> Bool in
+            guard result1.count == result2.count else { return false }
+            return Set(result1) == Set(result2)
         }
         
         return [

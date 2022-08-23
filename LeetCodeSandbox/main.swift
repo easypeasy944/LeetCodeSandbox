@@ -28,7 +28,8 @@ Runner(
         LetterCombinationsOfAPhoneNumber.Solution(),
         RomanToInteger.Solution(),
         ZigzagConversion.Solution(),
-        ThreeSum.Solution()
+        ThreeSum.Solution(),
+        Permutations.Solution()
     ]
 ).run()
 
