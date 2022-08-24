@@ -15,6 +15,7 @@
 		A46FD61828B3AABC00D33AF7 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61728B3AABC00D33AF7 /* String+Extensions.swift */; };
 		A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */; };
 		A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */; };
+		A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		A46FD61728B3AABC00D33AF7 /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
 		A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 		A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
+		A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				A46FD61328B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift */,
 				A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */,
 				A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */,
+				A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,

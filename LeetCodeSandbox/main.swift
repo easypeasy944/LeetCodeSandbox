@@ -29,7 +29,8 @@ Runner(
         RomanToInteger.Solution(),
         ZigzagConversion.Solution(),
         ThreeSum.Solution(),
-        Permutations.Solution()
+        Permutations.Solution(),
+        CombinationSum.Solution()
     ]
 ).run()
 
