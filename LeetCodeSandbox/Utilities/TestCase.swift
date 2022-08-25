@@ -125,3 +125,19 @@ struct TestCase2<Input1, Input2, Result: Equatable>: TestCase {
         { self.func2(self.input1, self.input2) }
     }
 }
+
+struct Result1<T1: Equatable>: Equatable {
+    let value1: T1
+}
+
+struct Result2<T1: Equatable, T2: Equatable>: Equatable {
+    let value1: T1
+    let value2: T2
+}
+
+struct Result3<T1: Equatable, T2: Equatable, T3: Equatable>: Equatable {
+    let value1: T1
+    let value2: T2
+    let value3: T3
+}
+

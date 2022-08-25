@@ -30,7 +30,8 @@ Runner(
         ZigzagConversion.Solution(),
         ThreeSum.Solution(),
         Permutations.Solution(),
-        CombinationSum.Solution()
+        CombinationSum.Solution(),
+        RemoveElement.Solution()
     ]
 ).run()
 
