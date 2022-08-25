@@ -17,6 +17,7 @@
 		A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */; };
 		A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */; };
 		A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */; };
+		A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 		A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
+		A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Implement strStr().swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */,
 				A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */,
 				A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */,
+				A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
 				A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */,
+				A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
 				A46FD61828B3AABC00D33AF7 /* String+Extensions.swift in Sources */,
 				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,

@@ -31,7 +31,8 @@ Runner(
         ThreeSum.Solution(),
         Permutations.Solution(),
         CombinationSum.Solution(),
-        RemoveElement.Solution()
+        RemoveElement.Solution(),
+        ImplementStrStr.Solution()
     ]
 ).run()
 
