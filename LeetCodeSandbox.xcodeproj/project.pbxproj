@@ -18,6 +18,7 @@
 		A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */; };
 		A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */; };
 		A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */; };
+		A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 		A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Implement strStr().swift"; sourceTree = "<group>"; };
+		A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */,
 				A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */,
 				A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */,
+				A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */,
+				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,

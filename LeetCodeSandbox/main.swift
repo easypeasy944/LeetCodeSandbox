@@ -32,7 +32,8 @@ Runner(
         Permutations.Solution(),
         CombinationSum.Solution(),
         RemoveElement.Solution(),
-        ImplementStrStr.Solution()
+        ImplementStrStr.Solution(),
+        GroupAnagrams.Solution()
     ]
 ).run()
 
