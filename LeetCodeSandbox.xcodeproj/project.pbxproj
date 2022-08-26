@@ -21,6 +21,7 @@
 		A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */; };
 		A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */; };
 		A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */; };
+		A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
 		A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41. First Missing Positive.swift"; sourceTree = "<group>"; };
 		A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
+		A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */,
 				A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */,
 				A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */,
+				A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
+				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
 				A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */,
