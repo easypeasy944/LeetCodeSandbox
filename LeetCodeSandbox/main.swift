@@ -33,7 +33,8 @@ Runner(
         CombinationSum.Solution(),
         RemoveElement.Solution(),
         ImplementStrStr.Solution(),
-        GroupAnagrams.Solution()
+        GroupAnagrams.Solution(),
+        FirstMissingPositive.Solution()
     ]
 ).run()
 
