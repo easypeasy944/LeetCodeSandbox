@@ -34,7 +34,8 @@ Runner(
         RemoveElement.Solution(),
         ImplementStrStr.Solution(),
         GroupAnagrams.Solution(),
-        FirstMissingPositive.Solution()
+        FirstMissingPositive.Solution(),
+        ClimbingStairs.Solution()
     ]
 ).run()
 
