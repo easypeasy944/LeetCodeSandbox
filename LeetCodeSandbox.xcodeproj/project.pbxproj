@@ -22,6 +22,7 @@
 		A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */; };
 		A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */; };
 		A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */; };
+		A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41. First Missing Positive.swift"; sourceTree = "<group>"; };
 		A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
+		A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */,
 				A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */,
 				A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */,
+				A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
+				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,
 				A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */,
 				A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */,
 				A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */,

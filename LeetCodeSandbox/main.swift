@@ -36,7 +36,8 @@ Runner(
         GroupAnagrams.Solution(),
         FirstMissingPositive.Solution(),
         ClimbingStairs.Solution(),
-        SearchA2DMatrix.Solution()
+        SearchA2DMatrix.Solution(),
+        AddBinary.Solution()
     ]
 ).run()
 
