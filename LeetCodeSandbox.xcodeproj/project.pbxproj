@@ -23,6 +23,7 @@
 		A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */; };
 		A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */; };
 		A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */; };
+		A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
+		A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */,
 				A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */,
 				A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */,
+				A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 				A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */,
 				A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
+				A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */,
 				A46FD61828B3AABC00D33AF7 /* String+Extensions.swift in Sources */,
 				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
 			);

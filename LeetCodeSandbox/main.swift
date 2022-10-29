@@ -37,7 +37,8 @@ Runner(
         FirstMissingPositive.Solution(),
         ClimbingStairs.Solution(),
         SearchA2DMatrix.Solution(),
-        AddBinary.Solution()
+        AddBinary.Solution(),
+        SameTree.Solution()
     ]
 ).run()
 
