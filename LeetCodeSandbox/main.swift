@@ -39,7 +39,8 @@ Runner(
         SearchA2DMatrix.Solution(),
         AddBinary.Solution(),
         SameTree.Solution(),
-        PathSumII.Solution()
+        PathSumII.Solution(),
+        PopulatingNextRightPointersInEachNodeII.Solution()
     ]
 ).run()
 
