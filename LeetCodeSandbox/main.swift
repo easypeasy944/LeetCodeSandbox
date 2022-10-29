@@ -38,7 +38,8 @@ Runner(
         ClimbingStairs.Solution(),
         SearchA2DMatrix.Solution(),
         AddBinary.Solution(),
-        SameTree.Solution()
+        SameTree.Solution(),
+        PathSumII.Solution()
     ]
 ).run()
 
