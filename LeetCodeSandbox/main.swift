@@ -41,7 +41,8 @@ Runner(
         SameTree.Solution(),
         PathSumII.Solution(),
         PopulatingNextRightPointersInEachNodeII.Solution(),
-        ConvertSortedListToBinarySearchTree.Solution()
+        ConvertSortedListToBinarySearchTree.Solution(),
+        CountCompleteTreeNodes.Solution()
     ]
 ).run()
 

@@ -177,22 +177,22 @@ extension ConvertSortedListToBinarySearchTree.Solution: SolutionProtocol {
         
     
         return [
-//            TestCase1(
-//                input1: list1,
-//                result: tree1,
-//                func1: self.sortedListToBST,
-//                comparator: { (lhsTree: TreeNode?, rhsTree: TreeNode?) -> Bool in
-//                    self.isSameTree(lhsTree, rhsTree)
-//                }
-//            ),
-//            TestCase1(
-//                input1: list2,
-//                result: tree2,
-//                func1: self.sortedListToBST,
-//                comparator: { (lhsTree: TreeNode?, rhsTree: TreeNode?) -> Bool in
-//                    self.isSameTree(lhsTree, rhsTree)
-//                }
-//            ),
+            TestCase1(
+                input1: list1,
+                result: tree1,
+                func1: self.sortedListToBST,
+                comparator: { (lhsTree: TreeNode?, rhsTree: TreeNode?) -> Bool in
+                    self.isSameTree(lhsTree, rhsTree)
+                }
+            ),
+            TestCase1(
+                input1: list2,
+                result: tree2,
+                func1: self.sortedListToBST,
+                comparator: { (lhsTree: TreeNode?, rhsTree: TreeNode?) -> Bool in
+                    self.isSameTree(lhsTree, rhsTree)
+                }
+            ),
             TestCase1(
                 input1: list3,
                 result: tree3,
