@@ -43,7 +43,8 @@ Runner(
         PopulatingNextRightPointersInEachNodeII.Solution(),
         ConvertSortedListToBinarySearchTree.Solution(),
         CountCompleteTreeNodes.Solution(),
-        VerifyPreorderSerializationOfABinaryTree.Solution()
+        VerifyPreorderSerializationOfABinaryTree.Solution(),
+        BinaryTreeMaximumPathSum.Solution()
     ]
 ).run()
 
