@@ -40,7 +40,8 @@ Runner(
         AddBinary.Solution(),
         SameTree.Solution(),
         PathSumII.Solution(),
-        PopulatingNextRightPointersInEachNodeII.Solution()
+        PopulatingNextRightPointersInEachNodeII.Solution(),
+        ConvertSortedListToBinarySearchTree.Solution()
     ]
 ).run()
 
