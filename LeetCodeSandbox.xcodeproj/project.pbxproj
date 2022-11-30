@@ -16,6 +16,7 @@
 		A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */; };
 		A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */; };
 		A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */; };
+		A49B587829374809009B3591 /* 120.Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587729374809009B3591 /* 120.Triangle.swift */; };
 		A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */; };
 		A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */; };
 		A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */; };
@@ -55,6 +56,7 @@
 		A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
 		A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
+		A49B587729374809009B3591 /* 120.Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120.Triangle.swift; sourceTree = "<group>"; };
 		A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Implement strStr().swift"; sourceTree = "<group>"; };
 		A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 		A46FD60D28B120EB00D33AF7 /* Solutions */ = {
 			isa = PBXGroup;
 			children = (
+				A49B58792937481B009B3591 /* Medium */,
 				A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */,
 				A46FD61528B3A96000D33AF7 /* 13. Roman to Integer.swift */,
 				A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */,
@@ -142,6 +145,14 @@
 				A46FD61728B3AABC00D33AF7 /* String+Extensions.swift */,
 			);
 			path = Utilities;
+			sourceTree = "<group>";
+		};
+		A49B58792937481B009B3591 /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				A49B587729374809009B3591 /* 120.Triangle.swift */,
+			);
+			path = Medium;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -208,6 +219,7 @@
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
+				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,

@@ -44,7 +44,8 @@ Runner(
         ConvertSortedListToBinarySearchTree.Solution(),
         CountCompleteTreeNodes.Solution(),
         VerifyPreorderSerializationOfABinaryTree.Solution(),
-        BinaryTreeMaximumPathSum.Solution()
+        BinaryTreeMaximumPathSum.Solution(),
+        Triangle.Solution()
     ]
 ).run()
 
