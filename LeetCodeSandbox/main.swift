@@ -45,7 +45,8 @@ Runner(
         CountCompleteTreeNodes.Solution(),
         VerifyPreorderSerializationOfABinaryTree.Solution(),
         BinaryTreeMaximumPathSum.Solution(),
-        Triangle.Solution()
+        Triangle.Solution(),
+        SortColors.Solution()
     ]
 ).run()
 
