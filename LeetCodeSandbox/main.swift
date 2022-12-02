@@ -47,7 +47,8 @@ Runner(
         BinaryTreeMaximumPathSum.Solution(),
         Triangle.Solution(),
         SortColors.Solution(),
-        ContainerWithMostWater.Solution()
+        ContainerWithMostWater.Solution(),
+        TrappingRainWater.Solution()
     ]
 ).run()
 
