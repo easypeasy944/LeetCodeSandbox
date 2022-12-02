@@ -46,7 +46,8 @@ Runner(
         VerifyPreorderSerializationOfABinaryTree.Solution(),
         BinaryTreeMaximumPathSum.Solution(),
         Triangle.Solution(),
-        SortColors.Solution()
+        SortColors.Solution(),
+        ContainerWithMostWater.Solution()
     ]
 ).run()
 
