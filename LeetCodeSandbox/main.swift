@@ -49,7 +49,8 @@ Runner(
         SortColors.Solution(),
         ContainerWithMostWater.Solution(),
         TrappingRainWater.Solution(),
-        ProductOfArrayExceptSelf.Solution()
+        ProductOfArrayExceptSelf.Solution(),
+        MergeSortedArray.Solution()
     ]
 ).run()
 

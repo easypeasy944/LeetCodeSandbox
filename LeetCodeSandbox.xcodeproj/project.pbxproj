@@ -21,6 +21,7 @@
 		A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */; };
 		A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */; };
 		A49B5885293B51C5009B3591 /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */; };
+		A49B5888293B5FF0009B3591 /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */; };
 		A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */; };
 		A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */; };
 		A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */; };
@@ -65,6 +66,7 @@
 		A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
 		A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Trapping Rain Water.swift"; sourceTree = "<group>"; };
 		A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = "<group>"; };
+		A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
 		A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Implement strStr().swift"; sourceTree = "<group>"; };
 		A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 		A46FD60D28B120EB00D33AF7 /* Solutions */ = {
 			isa = PBXGroup;
 			children = (
+				A49B5886293B5FE1009B3591 /* Easy */,
 				A49B5881293A4BD3009B3591 /* Hard */,
 				A49B58792937481B009B3591 /* Medium */,
 				A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */,
@@ -173,6 +176,14 @@
 				A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */,
 			);
 			path = Hard;
+			sourceTree = "<group>";
+		};
+		A49B5886293B5FE1009B3591 /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */,
+			);
+			path = Easy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,6 +252,7 @@
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
+				A49B5888293B5FF0009B3591 /* 88. Merge Sorted Array.swift in Sources */,
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,

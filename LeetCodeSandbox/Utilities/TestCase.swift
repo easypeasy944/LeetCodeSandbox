@@ -126,6 +126,67 @@ struct TestCase2<Input1, Input2, Result: Equatable>: TestCase {
     }
 }
 
+struct TestCase3<Input1, Input2, Input3, Result: Equatable>: TestCase {
+    let input1: Input1
+    let input2: Input2
+    let input3: Input3
+    let result: Result
+    let func3: (Input1, Input2, Input3) -> Result
+    let comparator: (Result, Result) -> Bool
+    
+    init(
+        input1: Input1,
+        input2: Input2,
+        input3: Input3,
+        result: Result,
+        func3: @escaping (Input1, Input2, Input3) -> Result,
+        comparator: @escaping (Result, Result) -> Bool = { result1, result2 in result1 == result2 }
+    ) {
+        self.input1 = input1
+        self.input2 = input2
+        self.input3 = input3
+        self.result = result
+        self.func3 = func3
+        self.comparator = comparator
+    }
+    
+    var `func`: () -> Result {
+        { self.func3(self.input1, self.input2, self.input3) }
+    }
+}
+
+struct TestCase4<Input1, Input2, Input3, Input4, Result: Equatable>: TestCase {
+    let input1: Input1
+    let input2: Input2
+    let input3: Input3
+    let input4: Input4
+    let result: Result
+    let func4: (Input1, Input2, Input3, Input4) -> Result
+    let comparator: (Result, Result) -> Bool
+    
+    init(
+        input1: Input1,
+        input2: Input2,
+        input3: Input3,
+        input4: Input4,
+        result: Result,
+        func4: @escaping (Input1, Input2, Input3, Input4) -> Result,
+        comparator: @escaping (Result, Result) -> Bool = { result1, result2 in result1 == result2 }
+    ) {
+        self.input1 = input1
+        self.input2 = input2
+        self.input3 = input3
+        self.input4 = input4
+        self.result = result
+        self.func4 = func4
+        self.comparator = comparator
+    }
+    
+    var `func`: () -> Result {
+        { self.func4(self.input1, self.input2, self.input3, self.input4) }
+    }
+}
+
 struct Result1<T1: Equatable>: Equatable {
     let value1: T1
 }
