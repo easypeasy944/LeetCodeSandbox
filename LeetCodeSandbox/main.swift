@@ -48,7 +48,8 @@ Runner(
         Triangle.Solution(),
         SortColors.Solution(),
         ContainerWithMostWater.Solution(),
-        TrappingRainWater.Solution()
+        TrappingRainWater.Solution(),
+        ProductOfArrayExceptSelf.Solution()
     ]
 ).run()
 
