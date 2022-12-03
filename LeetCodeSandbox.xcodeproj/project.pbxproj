@@ -22,6 +22,7 @@
 		A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */; };
 		A49B5885293B51C5009B3591 /* 238. Product of Array Except Self.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */; };
 		A49B5888293B5FF0009B3591 /* 88. Merge Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */; };
+		A49B588E293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B588D293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift */; };
 		A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */; };
 		A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */; };
 		A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */; };
@@ -67,6 +68,7 @@
 		A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42. Trapping Rain Water.swift"; sourceTree = "<group>"; };
 		A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. Product of Array Except Self.swift"; sourceTree = "<group>"; };
 		A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88. Merge Sorted Array.swift"; sourceTree = "<group>"; };
+		A49B588D293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "153. Find Minimum in Rotated Sorted Array.swift"; sourceTree = "<group>"; };
 		A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27. Remove Element.swift"; sourceTree = "<group>"; };
 		A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28. Implement strStr().swift"; sourceTree = "<group>"; };
 		A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49. Group Anagrams.swift"; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */,
 				A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */,
 				A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */,
+				A49B588D293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				A4F4FAD7290E92AB00FA2F15 /* 109. Convert Sorted List to Binary Search Tree.swift in Sources */,
 				A49B5885293B51C5009B3591 /* 238. Product of Array Except Self.swift in Sources */,
 				A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */,
+				A49B588E293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */,
 				A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
 				A4F4FAD3290D508500FA2F15 /* 113. Path Sum II.swift in Sources */,
 				A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */,

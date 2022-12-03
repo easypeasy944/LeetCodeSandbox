@@ -50,7 +50,8 @@ Runner(
         ContainerWithMostWater.Solution(),
         TrappingRainWater.Solution(),
         ProductOfArrayExceptSelf.Solution(),
-        MergeSortedArray.Solution()
+        MergeSortedArray.Solution(),
+        FindMinimumInRotatedSortedArray.Solution()
     ]
 ).run()
 
