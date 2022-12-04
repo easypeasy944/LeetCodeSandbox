@@ -51,7 +51,8 @@ Runner(
         TrappingRainWater.Solution(),
         ProductOfArrayExceptSelf.Solution(),
         MergeSortedArray.Solution(),
-        FindMinimumInRotatedSortedArray.Solution()
+        FindMinimumInRotatedSortedArray.Solution(),
+        MinimumSizeSubarraySum.Solution()
     ]
 ).run()
 

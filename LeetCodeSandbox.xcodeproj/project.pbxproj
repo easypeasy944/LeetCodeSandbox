@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -52,6 +53,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */,
 				A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */,
 				A49B588D293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift */,
+				A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
+				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
 				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,
