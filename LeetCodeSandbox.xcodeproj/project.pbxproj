@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
+		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -54,6 +55,7 @@
 
 /* Begin PBXFileReference section */
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
+		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */,
 				A49B588D293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift */,
 				A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */,
+				A455E72A293CB37C003654B2 /* 289. Game of Life.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,
 				A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */,
 				A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */,
+				A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */,
 				A4F4FAD7290E92AB00FA2F15 /* 109. Convert Sorted List to Binary Search Tree.swift in Sources */,
 				A49B5885293B51C5009B3591 /* 238. Product of Array Except Self.swift in Sources */,
 				A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */,

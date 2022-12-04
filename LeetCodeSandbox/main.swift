@@ -52,7 +52,8 @@ Runner(
         ProductOfArrayExceptSelf.Solution(),
         MergeSortedArray.Solution(),
         FindMinimumInRotatedSortedArray.Solution(),
-        MinimumSizeSubarraySum.Solution()
+        MinimumSizeSubarraySum.Solution(),
+        GameOfLife.Solution()
     ]
 ).run()
 
