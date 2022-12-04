@@ -55,7 +55,8 @@ Runner(
         MinimumSizeSubarraySum.Solution(),
         GameOfLife.Solution(),
         WordPattern.Solution(),
-        MaximumProductOfWordLengths.Solution()
+        MaximumProductOfWordLengths.Solution(),
+        DiagonalTraverse.Solution()
     ]
 ).run()
 

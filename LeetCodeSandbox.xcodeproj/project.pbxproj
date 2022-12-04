@@ -11,6 +11,7 @@
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
 		A455E72F293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */; };
+		A455E731293D2EBD003654B2 /* 498. Diagonal Traverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -60,6 +61,7 @@
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
 		A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "318. Maximum Product of Word Lengths.swift"; sourceTree = "<group>"; };
+		A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "498. Diagonal Traverse.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -180,6 +182,7 @@
 				A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */,
 				A455E72A293CB37C003654B2 /* 289. Game of Life.swift */,
 				A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */,
+				A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
 				A49B5888293B5FF0009B3591 /* 88. Merge Sorted Array.swift in Sources */,
+				A455E731293D2EBD003654B2 /* 498. Diagonal Traverse.swift in Sources */,
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
