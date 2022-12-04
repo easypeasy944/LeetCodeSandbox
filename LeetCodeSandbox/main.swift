@@ -53,7 +53,8 @@ Runner(
         MergeSortedArray.Solution(),
         FindMinimumInRotatedSortedArray.Solution(),
         MinimumSizeSubarraySum.Solution(),
-        GameOfLife.Solution()
+        GameOfLife.Solution(),
+        WordPattern.Solution()
     ]
 ).run()
 

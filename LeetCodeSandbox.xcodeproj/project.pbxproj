@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
+		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -56,6 +57,7 @@
 /* Begin PBXFileReference section */
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
+		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 			isa = PBXGroup;
 			children = (
 				A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */,
+				A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
+				A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */,
 				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
