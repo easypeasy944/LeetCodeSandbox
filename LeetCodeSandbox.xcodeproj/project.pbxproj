@@ -12,6 +12,8 @@
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
 		A455E72F293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */; };
 		A455E731293D2EBD003654B2 /* 498. Diagonal Traverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */; };
+		A455E733293DE664003654B2 /* 347. Top K Frequent Elements.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E732293DE664003654B2 /* 347. Top K Frequent Elements.swift */; };
+		A455E749293F66D7003654B2 /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E748293F66D7003654B2 /* Heap.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -62,6 +64,8 @@
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
 		A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "318. Maximum Product of Word Lengths.swift"; sourceTree = "<group>"; };
 		A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "498. Diagonal Traverse.swift"; sourceTree = "<group>"; };
+		A455E732293DE664003654B2 /* 347. Top K Frequent Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "347. Top K Frequent Elements.swift"; sourceTree = "<group>"; };
+		A455E748293F66D7003654B2 /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -106,6 +110,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A455E747293F66CB003654B2 /* Data structures */ = {
+			isa = PBXGroup;
+			children = (
+				A455E748293F66D7003654B2 /* Heap.swift */,
+			);
+			path = "Data structures";
+			sourceTree = "<group>";
+		};
 		A46FD5FA28B11EBF00D33AF7 = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +137,7 @@
 		A46FD60528B11EBF00D33AF7 /* LeetCodeSandbox */ = {
 			isa = PBXGroup;
 			children = (
+				A455E747293F66CB003654B2 /* Data structures */,
 				A46FD61028B1215D00D33AF7 /* Utilities */,
 				A46FD60D28B120EB00D33AF7 /* Solutions */,
 				A46FD60628B11EBF00D33AF7 /* main.swift */,
@@ -183,6 +196,7 @@
 				A455E72A293CB37C003654B2 /* 289. Game of Life.swift */,
 				A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */,
 				A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */,
+				A455E732293DE664003654B2 /* 347. Top K Frequent Elements.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -278,6 +292,7 @@
 				A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */,
 				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
+				A455E749293F66D7003654B2 /* Heap.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
 				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,
 				A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */,
@@ -288,6 +303,7 @@
 				A49B5885293B51C5009B3591 /* 238. Product of Array Except Self.swift in Sources */,
 				A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */,
 				A49B588E293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */,
+				A455E733293DE664003654B2 /* 347. Top K Frequent Elements.swift in Sources */,
 				A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
 				A4F4FAD3290D508500FA2F15 /* 113. Path Sum II.swift in Sources */,
 				A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */,

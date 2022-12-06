@@ -56,7 +56,8 @@ Runner(
         GameOfLife.Solution(),
         WordPattern.Solution(),
         MaximumProductOfWordLengths.Solution(),
-        DiagonalTraverse.Solution()
+        DiagonalTraverse.Solution(),
+        TopKFrequentElements.Solution()
     ]
 ).run()
 
