@@ -58,7 +58,8 @@ Runner(
         MaximumProductOfWordLengths.Solution(),
         DiagonalTraverse.Solution(),
         TopKFrequentElements.Solution(),
-        PacificAtlanticWaterFlow.Solution()
+        PacificAtlanticWaterFlow.Solution(),
+        FindRightInterval.Solution()
     ]
 ).run()
 
