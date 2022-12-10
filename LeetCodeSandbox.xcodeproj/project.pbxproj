@@ -17,6 +17,7 @@
 		A455E74B293F6943003654B2 /* 417. Pacific Atlantic Water Flow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E74A293F6943003654B2 /* 417. Pacific Atlantic Water Flow.swift */; };
 		A455E74F2941270C003654B2 /* 436. Find Right Interval.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E74E2941270C003654B2 /* 436. Find Right Interval.swift */; };
 		A455E753294506D9003654B2 /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E752294506D9003654B2 /* 24. Swap Nodes in Pairs.swift */; };
+		A455E75529450D42003654B2 /* 45. Jump Game II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E75429450D42003654B2 /* 45. Jump Game II.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -72,6 +73,7 @@
 		A455E74A293F6943003654B2 /* 417. Pacific Atlantic Water Flow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "417. Pacific Atlantic Water Flow.swift"; sourceTree = "<group>"; };
 		A455E74E2941270C003654B2 /* 436. Find Right Interval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "436. Find Right Interval.swift"; sourceTree = "<group>"; };
 		A455E752294506D9003654B2 /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
+		A455E75429450D42003654B2 /* 45. Jump Game II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "45. Jump Game II.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -206,6 +208,7 @@
 				A455E74A293F6943003654B2 /* 417. Pacific Atlantic Water Flow.swift */,
 				A455E74E2941270C003654B2 /* 436. Find Right Interval.swift */,
 				A455E752294506D9003654B2 /* 24. Swap Nodes in Pairs.swift */,
+				A455E75429450D42003654B2 /* 45. Jump Game II.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */,
 				A46FD61828B3AABC00D33AF7 /* String+Extensions.swift in Sources */,
 				A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */,
+				A455E75529450D42003654B2 /* 45. Jump Game II.swift in Sources */,
 				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

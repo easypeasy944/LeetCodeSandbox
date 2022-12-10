@@ -60,7 +60,8 @@ Runner(
         TopKFrequentElements.Solution(),
         PacificAtlanticWaterFlow.Solution(),
         FindRightInterval.Solution(),
-        SwapNodesInPairs.Solution()
+        SwapNodesInPairs.Solution(),
+        JumpGameII.Solution()
     ]
 ).run()
 
