@@ -59,7 +59,8 @@ Runner(
         DiagonalTraverse.Solution(),
         TopKFrequentElements.Solution(),
         PacificAtlanticWaterFlow.Solution(),
-        FindRightInterval.Solution()
+        FindRightInterval.Solution(),
+        SwapNodesInPairs.Solution()
     ]
 ).run()
 
