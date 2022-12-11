@@ -62,7 +62,8 @@ Runner(
         FindRightInterval.Solution(),
         SwapNodesInPairs.Solution(),
         JumpGameII.Solution(),
-        FindPeakElement.Solution()
+        FindPeakElement.Solution(),
+        LargestNumber.Solution()
     ]
 ).run()
 
