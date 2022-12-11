@@ -61,7 +61,8 @@ Runner(
         PacificAtlanticWaterFlow.Solution(),
         FindRightInterval.Solution(),
         SwapNodesInPairs.Solution(),
-        JumpGameII.Solution()
+        JumpGameII.Solution(),
+        FindPeakElement.Solution()
     ]
 ).run()
 
