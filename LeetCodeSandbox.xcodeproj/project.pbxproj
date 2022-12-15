@@ -21,6 +21,7 @@
 		A455E7592945DAC6003654B2 /* 162. Find Peak Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7582945DAC6003654B2 /* 162. Find Peak Element.swift */; };
 		A455E75B2945F3B2003654B2 /* 179. Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E75A2945F3B2003654B2 /* 179. Largest Number.swift */; };
 		A455E75F294B08CE003654B2 /* 398. Random Pick Index.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E75E294B08CE003654B2 /* 398. Random Pick Index.swift */; };
+		A455E761294B109E003654B2 /* 383. Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E760294B109E003654B2 /* 383. Ransom Note.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -80,6 +81,7 @@
 		A455E7582945DAC6003654B2 /* 162. Find Peak Element.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "162. Find Peak Element.swift"; sourceTree = "<group>"; };
 		A455E75A2945F3B2003654B2 /* 179. Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "179. Largest Number.swift"; sourceTree = "<group>"; };
 		A455E75E294B08CE003654B2 /* 398. Random Pick Index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "398. Random Pick Index.swift"; sourceTree = "<group>"; };
+		A455E760294B109E003654B2 /* 383. Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -235,6 +237,7 @@
 			children = (
 				A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */,
 				A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */,
+				A455E760294B109E003654B2 /* 383. Ransom Note.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				A455E753294506D9003654B2 /* 24. Swap Nodes in Pairs.swift in Sources */,
 				A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */,
 				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
+				A455E761294B109E003654B2 /* 383. Ransom Note.swift in Sources */,
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
 				A455E749293F66D7003654B2 /* Heap.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,

@@ -63,7 +63,8 @@ Runner(
         SwapNodesInPairs.Solution(),
         JumpGameII.Solution(),
         FindPeakElement.Solution(),
-        LargestNumber.Solution()
+        LargestNumber.Solution(),
+        RansomNote.Solution()
     ]
 ).run()
 
