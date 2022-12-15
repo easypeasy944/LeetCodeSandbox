@@ -64,7 +64,8 @@ Runner(
         JumpGameII.Solution(),
         FindPeakElement.Solution(),
         LargestNumber.Solution(),
-        RansomNote.Solution()
+        RansomNote.Solution(),
+        FindTheDifference.Solution()
     ]
 ).run()
 
