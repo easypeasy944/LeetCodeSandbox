@@ -65,7 +65,8 @@ Runner(
         FindPeakElement.Solution(),
         LargestNumber.Solution(),
         RansomNote.Solution(),
-        FindTheDifference.Solution()
+        FindTheDifference.Solution(),
+        RemoveDuplicatesFromSortedArray.Solution()
     ]
 ).run()
 
