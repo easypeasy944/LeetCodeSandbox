@@ -26,6 +26,7 @@
 		A455E765294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E764294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift */; };
 		A455E769294E12F4003654B2 /* 295. Find Median from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */; };
 		A455E76B294E3FDE003654B2 /* 480. Sliding Window Median.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */; };
+		A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76C294E4B90003654B2 /* 481. Magical String.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -90,6 +91,7 @@
 		A455E764294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26. Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
 		A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "295. Find Median from Data Stream.swift"; sourceTree = "<group>"; };
 		A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "480. Sliding Window Median.swift"; sourceTree = "<group>"; };
+		A455E76C294E4B90003654B2 /* 481. Magical String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "481. Magical String.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -228,6 +230,7 @@
 				A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */,
 				A455E75A2945F3B2003654B2 /* 179. Largest Number.swift */,
 				A455E75E294B08CE003654B2 /* 398. Random Pick Index.swift */,
+				A455E76C294E4B90003654B2 /* 481. Magical String.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -314,6 +317,7 @@
 			files = (
 				A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */,
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
+				A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */,
 				A455E7592945DAC6003654B2 /* 162. Find Peak Element.swift in Sources */,
 				A4F4FADB290EA77000FA2F15 /* 331. Verify Preorder Serialization of a Binary Tree.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,

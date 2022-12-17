@@ -68,7 +68,8 @@ Runner(
         FindTheDifference.Solution(),
         RemoveDuplicatesFromSortedArray.Solution(),
         FindMedianFromDataStream.Solution(),
-        SlidingWindowMedian.Solution()
+        SlidingWindowMedian.Solution(),
+        MagicalString.Solution()
     ]
 ).run()
 
