@@ -67,7 +67,8 @@ Runner(
         RansomNote.Solution(),
         FindTheDifference.Solution(),
         RemoveDuplicatesFromSortedArray.Solution(),
-        FindMedianFromDataStream.Solution()
+        FindMedianFromDataStream.Solution(),
+        SlidingWindowMedian.Solution()
     ]
 ).run()
 
