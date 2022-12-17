@@ -24,6 +24,7 @@
 		A455E761294B109E003654B2 /* 383. Ransom Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E760294B109E003654B2 /* 383. Ransom Note.swift */; };
 		A455E763294B12F1003654B2 /* 389. Find the Difference.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E762294B12F1003654B2 /* 389. Find the Difference.swift */; };
 		A455E765294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E764294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift */; };
+		A455E769294E12F4003654B2 /* 295. Find Median from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -86,6 +87,7 @@
 		A455E760294B109E003654B2 /* 383. Ransom Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "383. Ransom Note.swift"; sourceTree = "<group>"; };
 		A455E762294B12F1003654B2 /* 389. Find the Difference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "389. Find the Difference.swift"; sourceTree = "<group>"; };
 		A455E764294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26. Remove Duplicates from Sorted Array.swift"; sourceTree = "<group>"; };
+		A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "295. Find Median from Data Stream.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -232,6 +234,7 @@
 			isa = PBXGroup;
 			children = (
 				A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */,
+				A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
+				A455E769294E12F4003654B2 /* 295. Find Median from Data Stream.swift in Sources */,
 				A49B5888293B5FF0009B3591 /* 88. Merge Sorted Array.swift in Sources */,
 				A455E731293D2EBD003654B2 /* 498. Diagonal Traverse.swift in Sources */,
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,

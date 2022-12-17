@@ -66,7 +66,8 @@ Runner(
         LargestNumber.Solution(),
         RansomNote.Solution(),
         FindTheDifference.Solution(),
-        RemoveDuplicatesFromSortedArray.Solution()
+        RemoveDuplicatesFromSortedArray.Solution(),
+        FindMedianFromDataStream.Solution()
     ]
 ).run()
 
