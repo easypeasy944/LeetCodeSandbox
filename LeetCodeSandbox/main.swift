@@ -69,7 +69,8 @@ Runner(
         RemoveDuplicatesFromSortedArray.Solution(),
         FindMedianFromDataStream.Solution(),
         SlidingWindowMedian.Solution(),
-        MagicalString.Solution()
+        MagicalString.Solution(),
+        ReverseWordsInAStringIII.Solution()
     ]
 ).run()
 

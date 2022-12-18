@@ -27,6 +27,7 @@
 		A455E769294E12F4003654B2 /* 295. Find Median from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */; };
 		A455E76B294E3FDE003654B2 /* 480. Sliding Window Median.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */; };
 		A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76C294E4B90003654B2 /* 481. Magical String.swift */; };
+		A455E76F294F17E5003654B2 /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -92,6 +93,7 @@
 		A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "295. Find Median from Data Stream.swift"; sourceTree = "<group>"; };
 		A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "480. Sliding Window Median.swift"; sourceTree = "<group>"; };
 		A455E76C294E4B90003654B2 /* 481. Magical String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "481. Magical String.swift"; sourceTree = "<group>"; };
+		A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 				A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */,
 				A455E760294B109E003654B2 /* 383. Ransom Note.swift */,
 				A455E762294B12F1003654B2 /* 389. Find the Difference.swift */,
+				A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -363,6 +366,7 @@
 				A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */,
 				A455E75B2945F3B2003654B2 /* 179. Largest Number.swift in Sources */,
 				A455E75529450D42003654B2 /* 45. Jump Game II.swift in Sources */,
+				A455E76F294F17E5003654B2 /* 557. Reverse Words in a String III.swift in Sources */,
 				A455E763294B12F1003654B2 /* 389. Find the Difference.swift in Sources */,
 				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
 			);
