@@ -70,7 +70,9 @@ Runner(
         FindMedianFromDataStream.Solution(),
         SlidingWindowMedian.Solution(),
         MagicalString.Solution(),
-        ReverseWordsInAStringIII.Solution()
+        ReverseWordsInAStringIII.Solution(),
+        SubarraySumEqualsK.Solution(),
+        Combinations.Solution()
     ]
 ).run()
 

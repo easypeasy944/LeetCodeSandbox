@@ -28,6 +28,8 @@
 		A455E76B294E3FDE003654B2 /* 480. Sliding Window Median.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */; };
 		A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76C294E4B90003654B2 /* 481. Magical String.swift */; };
 		A455E76F294F17E5003654B2 /* 557. Reverse Words in a String III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */; };
+		A455E771294F2359003654B2 /* 560. Subarray Sum Equals K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E770294F2359003654B2 /* 560. Subarray Sum Equals K.swift */; };
+		A455E77329503949003654B2 /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E77229503949003654B2 /* 77. Combinations.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -94,6 +96,8 @@
 		A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "480. Sliding Window Median.swift"; sourceTree = "<group>"; };
 		A455E76C294E4B90003654B2 /* 481. Magical String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "481. Magical String.swift"; sourceTree = "<group>"; };
 		A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. Reverse Words in a String III.swift"; sourceTree = "<group>"; };
+		A455E770294F2359003654B2 /* 560. Subarray Sum Equals K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "560. Subarray Sum Equals K.swift"; sourceTree = "<group>"; };
+		A455E77229503949003654B2 /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -233,6 +237,8 @@
 				A455E75A2945F3B2003654B2 /* 179. Largest Number.swift */,
 				A455E75E294B08CE003654B2 /* 398. Random Pick Index.swift */,
 				A455E76C294E4B90003654B2 /* 481. Magical String.swift */,
+				A455E770294F2359003654B2 /* 560. Subarray Sum Equals K.swift */,
+				A455E77229503949003654B2 /* 77. Combinations.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -338,12 +344,14 @@
 				A455E753294506D9003654B2 /* 24. Swap Nodes in Pairs.swift in Sources */,
 				A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */,
 				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
+				A455E771294F2359003654B2 /* 560. Subarray Sum Equals K.swift in Sources */,
 				A455E761294B109E003654B2 /* 383. Ransom Note.swift in Sources */,
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
 				A455E749293F66D7003654B2 /* Heap.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
 				A455E76B294E3FDE003654B2 /* 480. Sliding Window Median.swift in Sources */,
 				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,
+				A455E77329503949003654B2 /* 77. Combinations.swift in Sources */,
 				A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */,
 				A455E72F293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift in Sources */,
 				A4A7016628B7D11000BB3EAE /* 28. Implement strStr().swift in Sources */,
