@@ -72,7 +72,8 @@ Runner(
         MagicalString.Solution(),
         ReverseWordsInAStringIII.Solution(),
         SubarraySumEqualsK.Solution(),
-        Combinations.Solution()
+        Combinations.Solution(),
+        PascalTriangle.Solution()
     ]
 ).run()
 
