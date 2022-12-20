@@ -73,7 +73,8 @@ Runner(
         ReverseWordsInAStringIII.Solution(),
         SubarraySumEqualsK.Solution(),
         Combinations.Solution(),
-        PascalTriangle.Solution()
+        PascalTriangle.Solution(),
+        ReverseInteger.Solution()
     ]
 ).run()
 
