@@ -74,7 +74,8 @@ Runner(
         SubarraySumEqualsK.Solution(),
         Combinations.Solution(),
         PascalTriangle.Solution(),
-        ReverseInteger.Solution()
+        ReverseInteger.Solution(),
+        PlusOne.Solution()
     ]
 ).run()
 

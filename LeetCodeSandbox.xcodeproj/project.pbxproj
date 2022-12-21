@@ -32,6 +32,7 @@
 		A455E77329503949003654B2 /* 77. Combinations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E77229503949003654B2 /* 77. Combinations.swift */; };
 		A455E7752951CFFC003654B2 /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */; };
 		A455E77729520EC2003654B2 /* 7. Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E77629520EC2003654B2 /* 7. Reverse Integer.swift */; };
+		A455E779295364C9003654B2 /* 66. Plus One.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E778295364C9003654B2 /* 66. Plus One.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -102,6 +103,7 @@
 		A455E77229503949003654B2 /* 77. Combinations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "77. Combinations.swift"; sourceTree = "<group>"; };
 		A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		A455E77629520EC2003654B2 /* 7. Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "7. Reverse Integer.swift"; sourceTree = "<group>"; };
+		A455E778295364C9003654B2 /* 66. Plus One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. Plus One.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -268,6 +270,7 @@
 				A455E762294B12F1003654B2 /* 389. Find the Difference.swift */,
 				A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */,
 				A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */,
+				A455E778295364C9003654B2 /* 66. Plus One.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */,
 				A455E7592945DAC6003654B2 /* 162. Find Peak Element.swift in Sources */,
 				A4F4FADB290EA77000FA2F15 /* 331. Verify Preorder Serialization of a Binary Tree.swift in Sources */,
+				A455E779295364C9003654B2 /* 66. Plus One.swift in Sources */,
 				A455E77729520EC2003654B2 /* 7. Reverse Integer.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,

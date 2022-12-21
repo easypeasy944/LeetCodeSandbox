@@ -7,32 +7,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BD8C3DAA-C51B-497B-9D69-B359AABDC469"
+            uuid = "6274BD73-EBE0-4E13-841D-B85D43E8DAFA"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "LeetCodeSandbox/Solutions/Medium/7. Reverse Integer.swift"
+            filePath = "LeetCodeSandbox/Solutions/Easy/66. Plus One.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "reverse(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5F780CE2-B341-4947-A586-5FA9C9A5FDCA"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LeetCodeSandbox/Solutions/Medium/7. Reverse Integer.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "reverse(_:)"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "plusOne(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
