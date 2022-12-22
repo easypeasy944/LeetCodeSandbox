@@ -75,7 +75,8 @@ Runner(
         Combinations.Solution(),
         PascalTriangle.Solution(),
         ReverseInteger.Solution(),
-        PlusOne.Solution()
+        PlusOne.Solution(),
+        LowestCommonAncestorOfABinaryTree.Solution()
     ]
 ).run()
 
