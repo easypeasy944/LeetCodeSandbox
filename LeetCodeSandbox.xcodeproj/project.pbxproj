@@ -36,6 +36,7 @@
 		A455E77B29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E77A29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift */; };
 		A455E77D29559418003654B2 /* 189. Rotate Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E77C29559418003654B2 /* 189. Rotate Array.swift */; };
 		A455E77F29559D02003654B2 /* 165. Compare Version Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E77E29559D02003654B2 /* 165. Compare Version Numbers.swift */; };
+		A455E7812955A009003654B2 /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7802955A009003654B2 /* 283. Move Zeroes.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -110,6 +111,7 @@
 		A455E77A29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "236. Lowest Common Ancestor of a Binary Tree.swift"; sourceTree = "<group>"; };
 		A455E77C29559418003654B2 /* 189. Rotate Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. Rotate Array.swift"; sourceTree = "<group>"; };
 		A455E77E29559D02003654B2 /* 165. Compare Version Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "165. Compare Version Numbers.swift"; sourceTree = "<group>"; };
+		A455E7802955A009003654B2 /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -280,6 +282,7 @@
 				A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */,
 				A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */,
 				A455E778295364C9003654B2 /* 66. Plus One.swift */,
+				A455E7802955A009003654B2 /* 283. Move Zeroes.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -349,6 +352,7 @@
 				A4F4FADB290EA77000FA2F15 /* 331. Verify Preorder Serialization of a Binary Tree.swift in Sources */,
 				A455E779295364C9003654B2 /* 66. Plus One.swift in Sources */,
 				A455E77729520EC2003654B2 /* 7. Reverse Integer.swift in Sources */,
+				A455E7812955A009003654B2 /* 283. Move Zeroes.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,

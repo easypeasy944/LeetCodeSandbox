@@ -78,7 +78,8 @@ Runner(
         PlusOne.Solution(),
         LowestCommonAncestorOfABinaryTree.Solution(),
         RotateArray.Solution(),
-        CompareVersionNumbers.Solution()
+        CompareVersionNumbers.Solution(),
+        MoveZeroes.Solution()
     ]
 ).run()
 
