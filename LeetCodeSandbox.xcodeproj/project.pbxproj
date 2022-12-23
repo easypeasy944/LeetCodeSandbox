@@ -39,6 +39,7 @@
 		A455E7812955A009003654B2 /* 283. Move Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7802955A009003654B2 /* 283. Move Zeroes.swift */; };
 		A455E7832955AB03003654B2 /* 279. Perfect Squares.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7822955AB03003654B2 /* 279. Perfect Squares.swift */; };
 		A455E7852955B38A003654B2 /* 300. Longest Increasing Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7842955B38A003654B2 /* 300. Longest Increasing Subsequence.swift */; };
+		A455E7872955F3A5003654B2 /* 344. Reverse String.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7862955F3A5003654B2 /* 344. Reverse String.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -116,6 +117,7 @@
 		A455E7802955A009003654B2 /* 283. Move Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. Move Zeroes.swift"; sourceTree = "<group>"; };
 		A455E7822955AB03003654B2 /* 279. Perfect Squares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "279. Perfect Squares.swift"; sourceTree = "<group>"; };
 		A455E7842955B38A003654B2 /* 300. Longest Increasing Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "300. Longest Increasing Subsequence.swift"; sourceTree = "<group>"; };
+		A455E7862955F3A5003654B2 /* 344. Reverse String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. Reverse String.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -289,6 +291,7 @@
 				A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */,
 				A455E778295364C9003654B2 /* 66. Plus One.swift */,
 				A455E7802955A009003654B2 /* 283. Move Zeroes.swift */,
+				A455E7862955F3A5003654B2 /* 344. Reverse String.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -371,6 +374,7 @@
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
+				A455E7872955F3A5003654B2 /* 344. Reverse String.swift in Sources */,
 				A455E74F2941270C003654B2 /* 436. Find Right Interval.swift in Sources */,
 				A455E7752951CFFC003654B2 /* 118. Pascal's Triangle.swift in Sources */,
 				A455E753294506D9003654B2 /* 24. Swap Nodes in Pairs.swift in Sources */,

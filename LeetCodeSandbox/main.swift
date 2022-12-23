@@ -81,7 +81,8 @@ Runner(
         CompareVersionNumbers.Solution(),
         MoveZeroes.Solution(),
         PerfectSquares.Solution(),
-        LongestIncreasingSubsequence.Solution()
+        LongestIncreasingSubsequence.Solution(),
+        ReverseString.Solution()
     ]
 ).run()
 
