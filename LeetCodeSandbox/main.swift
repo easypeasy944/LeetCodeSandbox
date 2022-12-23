@@ -80,7 +80,8 @@ Runner(
         RotateArray.Solution(),
         CompareVersionNumbers.Solution(),
         MoveZeroes.Solution(),
-        PerfectSquares.Solution()
+        PerfectSquares.Solution(),
+        LongestIncreasingSubsequence.Solution()
     ]
 ).run()
 
