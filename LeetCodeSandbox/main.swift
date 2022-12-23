@@ -77,7 +77,8 @@ Runner(
         ReverseInteger.Solution(),
         PlusOne.Solution(),
         LowestCommonAncestorOfABinaryTree.Solution(),
-        RotateArray.Solution()
+        RotateArray.Solution(),
+        CompareVersionNumbers.Solution()
     ]
 ).run()
 
