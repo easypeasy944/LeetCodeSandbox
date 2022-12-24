@@ -82,7 +82,8 @@ Runner(
         MoveZeroes.Solution(),
         PerfectSquares.Solution(),
         LongestIncreasingSubsequence.Solution(),
-        ReverseString.Solution()
+        ReverseString.Solution(),
+        SearchInRotatedSortedArray.Solution()
     ]
 ).run()
 
