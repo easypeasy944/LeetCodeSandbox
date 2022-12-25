@@ -85,7 +85,8 @@ Runner(
         ReverseString.Solution(),
         SearchInRotatedSortedArray.Solution(),
         PeekingIterator.Solution(),
-        NthDigit.Solution()
+        NthDigit.Solution(),
+        ConstructQuadTree.Solution()
     ]
 ).run()
 

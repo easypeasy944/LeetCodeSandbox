@@ -43,6 +43,7 @@
 		A455E78B2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E78A2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift */; };
 		A455E78F29576AE0003654B2 /* 284. Peeking Iterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E78E29576AE0003654B2 /* 284. Peeking Iterator.swift */; };
 		A455E79529585161003654B2 /* 400. Nth Digit.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E79429585161003654B2 /* 400. Nth Digit.swift */; };
+		A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -124,6 +125,7 @@
 		A455E78A2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "33. Search in Rotated Sorted Array.swift"; sourceTree = "<group>"; };
 		A455E78E29576AE0003654B2 /* 284. Peeking Iterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "284. Peeking Iterator.swift"; sourceTree = "<group>"; };
 		A455E79429585161003654B2 /* 400. Nth Digit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "400. Nth Digit.swift"; sourceTree = "<group>"; };
+		A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "427. Construct Quad Tree.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -274,6 +276,7 @@
 				A455E78A2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift */,
 				A455E78E29576AE0003654B2 /* 284. Peeking Iterator.swift */,
 				A455E79429585161003654B2 /* 400. Nth Digit.swift */,
+				A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -375,6 +378,7 @@
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
+				A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */,
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
 				A455E79529585161003654B2 /* 400. Nth Digit.swift in Sources */,
