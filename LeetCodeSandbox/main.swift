@@ -84,7 +84,8 @@ Runner(
         LongestIncreasingSubsequence.Solution(),
         ReverseString.Solution(),
         SearchInRotatedSortedArray.Solution(),
-        PeekingIterator.Solution()
+        PeekingIterator.Solution(),
+        NthDigit.Solution()
     ]
 ).run()
 
