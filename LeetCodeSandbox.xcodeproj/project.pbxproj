@@ -44,6 +44,7 @@
 		A455E78F29576AE0003654B2 /* 284. Peeking Iterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E78E29576AE0003654B2 /* 284. Peeking Iterator.swift */; };
 		A455E79529585161003654B2 /* 400. Nth Digit.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E79429585161003654B2 /* 400. Nth Digit.swift */; };
 		A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */; };
+		A455E79B2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -126,6 +127,7 @@
 		A455E78E29576AE0003654B2 /* 284. Peeking Iterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "284. Peeking Iterator.swift"; sourceTree = "<group>"; };
 		A455E79429585161003654B2 /* 400. Nth Digit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "400. Nth Digit.swift"; sourceTree = "<group>"; };
 		A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "427. Construct Quad Tree.swift"; sourceTree = "<group>"; };
+		A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2357. Make Array Zero by Subtracting Equal Amounts.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -304,6 +306,7 @@
 				A455E778295364C9003654B2 /* 66. Plus One.swift */,
 				A455E7802955A009003654B2 /* 283. Move Zeroes.swift */,
 				A455E7862955F3A5003654B2 /* 344. Reverse String.swift */,
+				A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -425,6 +428,7 @@
 				A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */,
 				A455E765294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift in Sources */,
 				A46FD61828B3AABC00D33AF7 /* String+Extensions.swift in Sources */,
+				A455E79B2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift in Sources */,
 				A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */,
 				A455E77B29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */,
 				A455E75B2945F3B2003654B2 /* 179. Largest Number.swift in Sources */,

@@ -86,7 +86,8 @@ Runner(
         SearchInRotatedSortedArray.Solution(),
         PeekingIterator.Solution(),
         NthDigit.Solution(),
-        ConstructQuadTree.Solution()
+        ConstructQuadTree.Solution(),
+        MakeArrayZeroBySubtractingEqualAmounts.Solution()
     ]
 ).run()
 
