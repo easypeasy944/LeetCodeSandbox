@@ -88,7 +88,8 @@ Runner(
         NthDigit.Solution(),
         ConstructQuadTree.Solution(),
         MakeArrayZeroBySubtractingEqualAmounts.Solution(),
-        ArrayWithElementsNotEqualToAverageOfNeighbors.Solution()
+        ArrayWithElementsNotEqualToAverageOfNeighbors.Solution(),
+        AssignCookies.Solution()
     ]
 ).run()
 

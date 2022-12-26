@@ -46,6 +46,7 @@
 		A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */; };
 		A455E79B2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */; };
 		A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E79C2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift */; };
+		A455E79F2959F6B3003654B2 /* 455. Assign Cookies.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E79E2959F6B3003654B2 /* 455. Assign Cookies.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -130,6 +131,7 @@
 		A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "427. Construct Quad Tree.swift"; sourceTree = "<group>"; };
 		A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2357. Make Array Zero by Subtracting Equal Amounts.swift"; sourceTree = "<group>"; };
 		A455E79C2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1968. Array With Elements Not Equal to Average of Neighbors.swift"; sourceTree = "<group>"; };
+		A455E79E2959F6B3003654B2 /* 455. Assign Cookies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "455. Assign Cookies.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -310,6 +312,7 @@
 				A455E7802955A009003654B2 /* 283. Move Zeroes.swift */,
 				A455E7862955F3A5003654B2 /* 344. Reverse String.swift */,
 				A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */,
+				A455E79E2959F6B3003654B2 /* 455. Assign Cookies.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -386,6 +389,7 @@
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */,
+				A455E79F2959F6B3003654B2 /* 455. Assign Cookies.swift in Sources */,
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
 				A455E79529585161003654B2 /* 400. Nth Digit.swift in Sources */,
