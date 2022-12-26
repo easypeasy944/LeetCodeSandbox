@@ -90,7 +90,8 @@ Runner(
         MakeArrayZeroBySubtractingEqualAmounts.Solution(),
         ArrayWithElementsNotEqualToAverageOfNeighbors.Solution(),
         AssignCookies.Solution(),
-        SingleNumber.Solution()
+        SingleNumber.Solution(),
+        IntersectionOfTwoArrays.Solution()
     ]
 ).run()
 
