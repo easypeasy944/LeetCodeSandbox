@@ -87,7 +87,8 @@ Runner(
         PeekingIterator.Solution(),
         NthDigit.Solution(),
         ConstructQuadTree.Solution(),
-        MakeArrayZeroBySubtractingEqualAmounts.Solution()
+        MakeArrayZeroBySubtractingEqualAmounts.Solution(),
+        ArrayWithElementsNotEqualToAverageOfNeighbors.Solution()
     ]
 ).run()
 
