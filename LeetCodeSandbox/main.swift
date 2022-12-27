@@ -91,7 +91,8 @@ Runner(
         ArrayWithElementsNotEqualToAverageOfNeighbors.Solution(),
         AssignCookies.Solution(),
         SingleNumber.Solution(),
-        IntersectionOfTwoArrays.Solution()
+        IntersectionOfTwoArrays.Solution(),
+        MinimumPathSum.Solution()
     ]
 ).run()
 
