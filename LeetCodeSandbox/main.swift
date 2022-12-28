@@ -92,7 +92,8 @@ Runner(
         AssignCookies.Solution(),
         SingleNumber.Solution(),
         IntersectionOfTwoArrays.Solution(),
-        MinimumPathSum.Solution()
+        MinimumPathSum.Solution(),
+        MaxAreaOfIsland.Solution()
     ]
 ).run()
 
