@@ -93,7 +93,8 @@ Runner(
         SingleNumber.Solution(),
         IntersectionOfTwoArrays.Solution(),
         MinimumPathSum.Solution(),
-        MaxAreaOfIsland.Solution()
+        MaxAreaOfIsland.Solution(),
+        ReorderList.Solution()
     ]
 ).run()
 

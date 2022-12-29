@@ -51,6 +51,7 @@
 		A455E7A5295A4B08003654B2 /* 349. Intersection of Two Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7A4295A4B08003654B2 /* 349. Intersection of Two Arrays.swift */; };
 		A455E7A7295AE3F5003654B2 /* 64. Minimum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7A6295AE3F5003654B2 /* 64. Minimum Path Sum.swift */; };
 		A455E7A9295C342B003654B2 /* 695. Max Area of Island.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */; };
+		A455E7AD295DC8AF003654B2 /* 143. Reorder List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -140,6 +141,7 @@
 		A455E7A4295A4B08003654B2 /* 349. Intersection of Two Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. Intersection of Two Arrays.swift"; sourceTree = "<group>"; };
 		A455E7A6295AE3F5003654B2 /* 64. Minimum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "64. Minimum Path Sum.swift"; sourceTree = "<group>"; };
 		A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. Max Area of Island.swift"; sourceTree = "<group>"; };
+		A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "143. Reorder List.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -294,6 +296,7 @@
 				A455E79C2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift */,
 				A455E7A6295AE3F5003654B2 /* 64. Minimum Path Sum.swift */,
 				A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */,
+				A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -387,6 +390,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A455E7AD295DC8AF003654B2 /* 143. Reorder List.swift in Sources */,
 				A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */,
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,
