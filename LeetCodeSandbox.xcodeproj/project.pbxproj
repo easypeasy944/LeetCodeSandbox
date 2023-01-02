@@ -53,6 +53,7 @@
 		A455E7A9295C342B003654B2 /* 695. Max Area of Island.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */; };
 		A455E7AD295DC8AF003654B2 /* 143. Reorder List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */; };
 		A455E7B3295F3BFE003654B2 /* 387. First Unique Character in a String.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7B2295F3BFE003654B2 /* 387. First Unique Character in a String.swift */; };
+		A455E7B529636656003654B2 /* 451. Sort Characters By Frequency.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7B429636656003654B2 /* 451. Sort Characters By Frequency.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -144,6 +145,7 @@
 		A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "695. Max Area of Island.swift"; sourceTree = "<group>"; };
 		A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "143. Reorder List.swift"; sourceTree = "<group>"; };
 		A455E7B2295F3BFE003654B2 /* 387. First Unique Character in a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. First Unique Character in a String.swift"; sourceTree = "<group>"; };
+		A455E7B429636656003654B2 /* 451. Sort Characters By Frequency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "451. Sort Characters By Frequency.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -229,26 +231,6 @@
 				A49B5886293B5FE1009B3591 /* Easy */,
 				A49B5881293A4BD3009B3591 /* Hard */,
 				A49B58792937481B009B3591 /* Medium */,
-				A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */,
-				A46FD61528B3A96000D33AF7 /* 13. Roman to Integer.swift */,
-				A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */,
-				A46FD61328B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift */,
-				A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */,
-				A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */,
-				A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */,
-				A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */,
-				A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */,
-				A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */,
-				A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */,
-				A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */,
-				A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */,
-				A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */,
-				A4F4FAD6290E92AB00FA2F15 /* 109. Convert Sorted List to Binary Search Tree.swift */,
-				A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */,
-				A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */,
-				A4F4FAD8290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift */,
-				A4F4FADA290EA77000FA2F15 /* 331. Verify Preorder Serialization of a Binary Tree.swift */,
-				A4F4FADC290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
@@ -265,40 +247,54 @@
 		A49B58792937481B009B3591 /* Medium */ = {
 			isa = PBXGroup;
 			children = (
+				A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */,
+				A455E77629520EC2003654B2 /* 7. Reverse Integer.swift */,
 				A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */,
+				A46FD61928B4E0D100D33AF7 /* 15. 3Sum.swift */,
+				A46FD61328B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift */,
 				A455E752294506D9003654B2 /* 24. Swap Nodes in Pairs.swift */,
+				A4A7016528B7D11000BB3EAE /* 28. Implement strStr().swift */,
+				A455E78A2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift */,
+				A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */,
 				A455E75429450D42003654B2 /* 45. Jump Game II.swift */,
+				A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */,
+				A4A7016728B8BB8700BB3EAE /* 49. Group Anagrams.swift */,
+				A455E7A6295AE3F5003654B2 /* 64. Minimum Path Sum.swift */,
+				A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */,
 				A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */,
+				A455E77229503949003654B2 /* 77. Combinations.swift */,
+				A4F4FAD6290E92AB00FA2F15 /* 109. Convert Sorted List to Binary Search Tree.swift */,
+				A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */,
+				A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */,
 				A49B587729374809009B3591 /* 120.Triangle.swift */,
+				A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */,
 				A49B588D293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift */,
 				A455E7582945DAC6003654B2 /* 162. Find Peak Element.swift */,
-				A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */,
-				A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */,
-				A455E72A293CB37C003654B2 /* 289. Game of Life.swift */,
-				A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */,
-				A455E732293DE664003654B2 /* 347. Top K Frequent Elements.swift */,
-				A455E74A293F6943003654B2 /* 417. Pacific Atlantic Water Flow.swift */,
-				A455E74E2941270C003654B2 /* 436. Find Right Interval.swift */,
-				A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */,
-				A455E75A2945F3B2003654B2 /* 179. Largest Number.swift */,
-				A455E75E294B08CE003654B2 /* 398. Random Pick Index.swift */,
-				A455E76C294E4B90003654B2 /* 481. Magical String.swift */,
-				A455E770294F2359003654B2 /* 560. Subarray Sum Equals K.swift */,
-				A455E77229503949003654B2 /* 77. Combinations.swift */,
-				A455E77629520EC2003654B2 /* 7. Reverse Integer.swift */,
-				A455E77A29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift */,
-				A455E77C29559418003654B2 /* 189. Rotate Array.swift */,
 				A455E77E29559D02003654B2 /* 165. Compare Version Numbers.swift */,
+				A455E75A2945F3B2003654B2 /* 179. Largest Number.swift */,
+				A455E77C29559418003654B2 /* 189. Rotate Array.swift */,
+				A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */,
+				A4F4FAD8290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift */,
+				A455E77A29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift */,
+				A49B5884293B51C5009B3591 /* 238. Product of Array Except Self.swift */,
 				A455E7822955AB03003654B2 /* 279. Perfect Squares.swift */,
-				A455E7842955B38A003654B2 /* 300. Longest Increasing Subsequence.swift */,
-				A455E78A2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift */,
 				A455E78E29576AE0003654B2 /* 284. Peeking Iterator.swift */,
+				A455E72A293CB37C003654B2 /* 289. Game of Life.swift */,
+				A455E7842955B38A003654B2 /* 300. Longest Increasing Subsequence.swift */,
+				A455E72E293CD171003654B2 /* 318. Maximum Product of Word Lengths.swift */,
+				A4F4FADA290EA77000FA2F15 /* 331. Verify Preorder Serialization of a Binary Tree.swift */,
+				A455E732293DE664003654B2 /* 347. Top K Frequent Elements.swift */,
+				A455E75E294B08CE003654B2 /* 398. Random Pick Index.swift */,
 				A455E79429585161003654B2 /* 400. Nth Digit.swift */,
+				A455E74A293F6943003654B2 /* 417. Pacific Atlantic Water Flow.swift */,
 				A455E7982958CA33003654B2 /* 427. Construct Quad Tree.swift */,
-				A455E79C2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift */,
-				A455E7A6295AE3F5003654B2 /* 64. Minimum Path Sum.swift */,
+				A455E74E2941270C003654B2 /* 436. Find Right Interval.swift */,
+				A455E7B429636656003654B2 /* 451. Sort Characters By Frequency.swift */,
+				A455E76C294E4B90003654B2 /* 481. Magical String.swift */,
+				A455E730293D2EBD003654B2 /* 498. Diagonal Traverse.swift */,
+				A455E770294F2359003654B2 /* 560. Subarray Sum Equals K.swift */,
 				A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */,
-				A455E7AC295DC8AF003654B2 /* 143. Reorder List.swift */,
+				A455E79C2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -306,6 +302,8 @@
 		A49B5881293A4BD3009B3591 /* Hard */ = {
 			isa = PBXGroup;
 			children = (
+				A4F4FADC290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift */,
+				A4A7016928B8BFB600BB3EAE /* 41. First Missing Positive.swift */,
 				A49B5882293A4BDD009B3591 /* 42. Trapping Rain Water.swift */,
 				A455E768294E12F4003654B2 /* 295. Find Median from Data Stream.swift */,
 				A455E76A294E3FDE003654B2 /* 480. Sliding Window Median.swift */,
@@ -316,21 +314,26 @@
 		A49B5886293B5FE1009B3591 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
+				A46FD61528B3A96000D33AF7 /* 13. Roman to Integer.swift */,
 				A455E764294C5DE4003654B2 /* 26. Remove Duplicates from Sorted Array.swift */,
-				A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */,
-				A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */,
-				A455E760294B109E003654B2 /* 383. Ransom Note.swift */,
-				A455E762294B12F1003654B2 /* 389. Find the Difference.swift */,
-				A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */,
-				A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */,
+				A4A7016328B7B9AF00BB3EAE /* 27. Remove Element.swift */,
 				A455E778295364C9003654B2 /* 66. Plus One.swift */,
-				A455E7802955A009003654B2 /* 283. Move Zeroes.swift */,
-				A455E7862955F3A5003654B2 /* 344. Reverse String.swift */,
-				A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */,
-				A455E79E2959F6B3003654B2 /* 455. Assign Cookies.swift */,
+				A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */,
+				A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */,
+				A49B5887293B5FF0009B3591 /* 88. Merge Sorted Array.swift */,
+				A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */,
+				A455E7742951CFFC003654B2 /* 118. Pascal's Triangle.swift */,
 				A455E7A2295A4831003654B2 /* 136. Single Number.swift */,
+				A455E7802955A009003654B2 /* 283. Move Zeroes.swift */,
+				A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */,
+				A455E7862955F3A5003654B2 /* 344. Reverse String.swift */,
 				A455E7A4295A4B08003654B2 /* 349. Intersection of Two Arrays.swift */,
+				A455E760294B109E003654B2 /* 383. Ransom Note.swift */,
 				A455E7B2295F3BFE003654B2 /* 387. First Unique Character in a String.swift */,
+				A455E762294B12F1003654B2 /* 389. Find the Difference.swift */,
+				A455E79E2959F6B3003654B2 /* 455. Assign Cookies.swift */,
+				A455E76E294F17E5003654B2 /* 557. Reverse Words in a String III.swift */,
+				A455E79A2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -403,6 +406,7 @@
 				A455E779295364C9003654B2 /* 66. Plus One.swift in Sources */,
 				A455E77729520EC2003654B2 /* 7. Reverse Integer.swift in Sources */,
 				A455E7812955A009003654B2 /* 283. Move Zeroes.swift in Sources */,
+				A455E7B529636656003654B2 /* 451. Sort Characters By Frequency.swift in Sources */,
 				A455E7832955AB03003654B2 /* 279. Perfect Squares.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,

@@ -95,7 +95,9 @@ Runner(
         MinimumPathSum.Solution(),
         MaxAreaOfIsland.Solution(),
         ReorderList.Solution(),
-        FirstUniqueCharacterInAString.Solution()
+        FirstUniqueCharacterInAString.Solution(),
+        SortCharactersByFrequency.Solution(),
+        SortCharactersByFrequency.Solution()
     ]
 ).run()
 
