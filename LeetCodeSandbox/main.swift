@@ -98,7 +98,8 @@ Runner(
         FirstUniqueCharacterInAString.Solution(),
         SortCharactersByFrequency.Solution(),
         SortCharactersByFrequency.Solution(),
-        MaximumNumberOfPairsInArray.Solution()
+        MaximumNumberOfPairsInArray.Solution(),
+        NQueens.Solution()
     ]
 ).run()
 
