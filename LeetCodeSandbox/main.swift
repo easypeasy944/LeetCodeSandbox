@@ -99,7 +99,8 @@ Runner(
         SortCharactersByFrequency.Solution(),
         SortCharactersByFrequency.Solution(),
         MaximumNumberOfPairsInArray.Solution(),
-        NQueens.Solution()
+        NQueens.Solution(),
+        GridIllumination.Solution()
     ]
 ).run()
 
