@@ -97,7 +97,8 @@ Runner(
         ReorderList.Solution(),
         FirstUniqueCharacterInAString.Solution(),
         SortCharactersByFrequency.Solution(),
-        SortCharactersByFrequency.Solution()
+        SortCharactersByFrequency.Solution(),
+        MaximumNumberOfPairsInArray.Solution()
     ]
 ).run()
 
