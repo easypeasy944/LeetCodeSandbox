@@ -3,4 +3,164 @@
    uuid = "E653E53C-6DE0-48D4-B1E0-F6087CE6CC50"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38AF8AB3-9527-40C3-93EA-F9D28E48BA96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCodeSandbox/Solutions/Medium/146. LRU Cache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "get(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38AF8AB3-9527-40C3-93EA-F9D28E48BA96 - 4415f4e3cddd4bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSandbox.LRUCache.LRUCache.get(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCodeSandbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aynurgaliev/Desktop/LeetCodeSandbox/LeetCodeSandbox/Solutions/Medium/146.%20LRU%20Cache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "38AF8AB3-9527-40C3-93EA-F9D28E48BA96 - 4415f4e3cddd4bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSandbox.LRUCache.LRUCache.get(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCodeSandbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aynurgaliev/Desktop/LeetCodeSandbox/LeetCodeSandbox/Solutions/Medium/146.%20LRU%20Cache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "38AF8AB3-9527-40C3-93EA-F9D28E48BA96 - 4415f4e3cddd4bc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSandbox.LRUCache.LRUCache.get(Swift.Int) -&gt; Swift.Int"
+                  moduleName = "LeetCodeSandbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aynurgaliev/Desktop/LeetCodeSandbox/LeetCodeSandbox/Solutions/Medium/146.%20LRU%20Cache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8576568B-4577-46FC-8B4C-604FB50824CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCodeSandbox/Solutions/Medium/146. LRU Cache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "put(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8576568B-4577-46FC-8B4C-604FB50824CA - 556b9527b8e14883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSandbox.LRUCache.LRUCache.put(Swift.Int, Swift.Int) -&gt; ()"
+                  moduleName = "LeetCodeSandbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aynurgaliev/Desktop/LeetCodeSandbox/LeetCodeSandbox/Solutions/Medium/146.%20LRU%20Cache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "8576568B-4577-46FC-8B4C-604FB50824CA - 556b9527b8e14883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSandbox.LRUCache.LRUCache.put(Swift.Int, Swift.Int) -&gt; ()"
+                  moduleName = "LeetCodeSandbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aynurgaliev/Desktop/LeetCodeSandbox/LeetCodeSandbox/Solutions/Medium/146.%20LRU%20Cache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "8576568B-4577-46FC-8B4C-604FB50824CA - 556b9527b8e14883"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCodeSandbox.LRUCache.LRUCache.put(Swift.Int, Swift.Int) -&gt; ()"
+                  moduleName = "LeetCodeSandbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aynurgaliev/Desktop/LeetCodeSandbox/LeetCodeSandbox/Solutions/Medium/146.%20LRU%20Cache.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8CAE6D3-1EF4-4D8C-92D3-5ED869156A61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCodeSandbox/Solutions/Medium/146. LRU Cache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "put(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AE5E8CE-898F-4FDC-898A-7683D358A8F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCodeSandbox/Solutions/Medium/146. LRU Cache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "get(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

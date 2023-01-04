@@ -57,6 +57,7 @@
 		A455E7B9296491C1003654B2 /* 2341. Maximum Number of Pairs in Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7B8296491C1003654B2 /* 2341. Maximum Number of Pairs in Array.swift */; };
 		A455E7BB2964943B003654B2 /* 51. N-Queens.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7BA2964943B003654B2 /* 51. N-Queens.swift */; };
 		A455E7BD29649DE0003654B2 /* 1001. Grid Illumination.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7BC29649DE0003654B2 /* 1001. Grid Illumination.swift */; };
+		A455E7C32965C30D003654B2 /* 146. LRU Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E7C22965C30D003654B2 /* 146. LRU Cache.swift */; };
 		A46FD60728B11EBF00D33AF7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60628B11EBF00D33AF7 /* main.swift */; };
 		A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */; };
 		A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61128B1216A00D33AF7 /* TestCase.swift */; };
@@ -152,6 +153,7 @@
 		A455E7B8296491C1003654B2 /* 2341. Maximum Number of Pairs in Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2341. Maximum Number of Pairs in Array.swift"; sourceTree = "<group>"; };
 		A455E7BA2964943B003654B2 /* 51. N-Queens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "51. N-Queens.swift"; sourceTree = "<group>"; };
 		A455E7BC29649DE0003654B2 /* 1001. Grid Illumination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1001. Grid Illumination.swift"; sourceTree = "<group>"; };
+		A455E7C22965C30D003654B2 /* 146. LRU Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "146. LRU Cache.swift"; sourceTree = "<group>"; };
 		A46FD60328B11EBF00D33AF7 /* LeetCodeSandbox */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeSandbox; sourceTree = BUILT_PRODUCTS_DIR; };
 		A46FD60628B11EBF00D33AF7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A46FD60E28B1213800D33AF7 /* 6. Zigzag Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Zigzag Conversion.swift"; sourceTree = "<group>"; };
@@ -301,6 +303,7 @@
 				A455E770294F2359003654B2 /* 560. Subarray Sum Equals K.swift */,
 				A455E7A8295C342B003654B2 /* 695. Max Area of Island.swift */,
 				A455E79C2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift */,
+				A455E7C22965C30D003654B2 /* 146. LRU Cache.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -413,6 +416,7 @@
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,
 				A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */,
 				A455E7592945DAC6003654B2 /* 162. Find Peak Element.swift in Sources */,
+				A455E7C32965C30D003654B2 /* 146. LRU Cache.swift in Sources */,
 				A4F4FADB290EA77000FA2F15 /* 331. Verify Preorder Serialization of a Binary Tree.swift in Sources */,
 				A455E779295364C9003654B2 /* 66. Plus One.swift in Sources */,
 				A455E77729520EC2003654B2 /* 7. Reverse Integer.swift in Sources */,
