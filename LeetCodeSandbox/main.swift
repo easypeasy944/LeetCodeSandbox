@@ -101,7 +101,8 @@ Runner(
         MaximumNumberOfPairsInArray.Solution(),
         NQueens.Solution(),
         GridIllumination.Solution(),
-        LRUCache.Solution()
+        LRUCache.Solution(),
+        WordBreak.Solution()
     ]
 ).run()
 
