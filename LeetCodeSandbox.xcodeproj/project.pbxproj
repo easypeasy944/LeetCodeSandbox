@@ -68,6 +68,7 @@
 		A46FD61C28B56BDE00D33AF7 /* 46. Permutations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */; };
 		A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */; };
 		A473EA172966ED370087E751 /* 139. Word Break.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA162966ED370087E751 /* 139. Word Break.swift */; };
+		A473EA1C296757390087E751 /* Quick sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA1B296757390087E751 /* Quick sort.swift */; };
 		A49B587829374809009B3591 /* 120.Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587729374809009B3591 /* 120.Triangle.swift */; };
 		A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */; };
 		A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */; };
@@ -166,6 +167,7 @@
 		A46FD61B28B56BDD00D33AF7 /* 46. Permutations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46. Permutations.swift"; sourceTree = "<group>"; };
 		A46FD61D28B635FE00D33AF7 /* 39. Combination Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39. Combination Sum.swift"; sourceTree = "<group>"; };
 		A473EA162966ED370087E751 /* 139. Word Break.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "139. Word Break.swift"; sourceTree = "<group>"; };
+		A473EA1B296757390087E751 /* Quick sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Quick sort.swift"; sourceTree = "<group>"; };
 		A49B587729374809009B3591 /* 120.Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120.Triangle.swift; sourceTree = "<group>"; };
 		A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort colors.swift"; sourceTree = "<group>"; };
 		A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
@@ -200,12 +202,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A455E747293F66CB003654B2 /* Data structures */ = {
+		A455E747293F66CB003654B2 /* Basic data structures */ = {
 			isa = PBXGroup;
 			children = (
 				A455E748293F66D7003654B2 /* Heap.swift */,
 			);
-			path = "Data structures";
+			path = "Basic data structures";
 			sourceTree = "<group>";
 		};
 		A46FD5FA28B11EBF00D33AF7 = {
@@ -227,7 +229,8 @@
 		A46FD60528B11EBF00D33AF7 /* LeetCodeSandbox */ = {
 			isa = PBXGroup;
 			children = (
-				A455E747293F66CB003654B2 /* Data structures */,
+				A473EA1A296757110087E751 /* Basic algorithms */,
+				A455E747293F66CB003654B2 /* Basic data structures */,
 				A46FD61028B1215D00D33AF7 /* Utilities */,
 				A46FD60D28B120EB00D33AF7 /* Solutions */,
 				A46FD60628B11EBF00D33AF7 /* main.swift */,
@@ -252,6 +255,14 @@
 				A46FD61728B3AABC00D33AF7 /* String+Extensions.swift */,
 			);
 			path = Utilities;
+			sourceTree = "<group>";
+		};
+		A473EA1A296757110087E751 /* Basic algorithms */ = {
+			isa = PBXGroup;
+			children = (
+				A473EA1B296757390087E751 /* Quick sort.swift */,
+			);
+			path = "Basic algorithms";
 			sourceTree = "<group>";
 		};
 		A49B58792937481B009B3591 /* Medium */ = {
@@ -469,6 +480,7 @@
 				A49B588E293BC2B1009B3591 /* 153. Find Minimum in Rotated Sorted Array.swift in Sources */,
 				A455E7B3295F3BFE003654B2 /* 387. First Unique Character in a String.swift in Sources */,
 				A455E733293DE664003654B2 /* 347. Top K Frequent Elements.swift in Sources */,
+				A473EA1C296757390087E751 /* Quick sort.swift in Sources */,
 				A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */,
 				A455E7852955B38A003654B2 /* 300. Longest Increasing Subsequence.swift in Sources */,
 				A473EA172966ED370087E751 /* 139. Word Break.swift in Sources */,
