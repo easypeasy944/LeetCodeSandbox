@@ -102,9 +102,7 @@ Runner(
         NQueens.Solution(),
         GridIllumination.Solution(),
         LRUCache.Solution(),
-        WordBreak.Solution()
+        WordBreak.Solution(),
+        LongestConsecutiveSequence.Solution()
     ]
 ).run()
-
-var array = [2,4,5,6,1,2,3,5,-1,0]
-array.qsort()
