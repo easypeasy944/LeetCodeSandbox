@@ -103,6 +103,7 @@ Runner(
         GridIllumination.Solution(),
         LRUCache.Solution(),
         WordBreak.Solution(),
-        LongestConsecutiveSequence.Solution()
+        LongestConsecutiveSequence.Solution(),
+        HappyNumber.Solution()
     ]
 ).run()
