@@ -104,6 +104,7 @@ Runner(
         LRUCache.Solution(),
         WordBreak.Solution(),
         LongestConsecutiveSequence.Solution(),
-        HappyNumber.Solution()
+        HappyNumber.Solution(),
+        SpiralMatrix.Solution()
     ]
 ).run()
