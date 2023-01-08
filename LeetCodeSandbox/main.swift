@@ -106,6 +106,7 @@ Runner(
         LongestConsecutiveSequence.Solution(),
         HappyNumber.Solution(),
         SpiralMatrix.Solution(),
-        CountPrimes.Solution()
+        CountPrimes.Solution(),
+        RangeSumQuery_Immutable.Solution()
     ]
 ).run()
