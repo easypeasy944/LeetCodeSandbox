@@ -73,6 +73,7 @@
 		A473EA2229685DBB0087E751 /* 128. Longest Consecutive Sequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA2129685DBB0087E751 /* 128. Longest Consecutive Sequence.swift */; };
 		A473EA242969E9330087E751 /* 202. Happy Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA232969E9330087E751 /* 202. Happy Number.swift */; };
 		A473EA28296ADAD50087E751 /* 54. Spiral Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA27296ADAD50087E751 /* 54. Spiral Matrix.swift */; };
+		A473EA2A296B04CA0087E751 /* 204. Count Primes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA29296B04CA0087E751 /* 204. Count Primes.swift */; };
 		A49B587829374809009B3591 /* 120.Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587729374809009B3591 /* 120.Triangle.swift */; };
 		A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */; };
 		A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */; };
@@ -176,6 +177,7 @@
 		A473EA2129685DBB0087E751 /* 128. Longest Consecutive Sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "128. Longest Consecutive Sequence.swift"; sourceTree = "<group>"; };
 		A473EA232969E9330087E751 /* 202. Happy Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "202. Happy Number.swift"; sourceTree = "<group>"; };
 		A473EA27296ADAD50087E751 /* 54. Spiral Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54. Spiral Matrix.swift"; sourceTree = "<group>"; };
+		A473EA29296B04CA0087E751 /* 204. Count Primes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "204. Count Primes.swift"; sourceTree = "<group>"; };
 		A49B587729374809009B3591 /* 120.Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120.Triangle.swift; sourceTree = "<group>"; };
 		A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort colors.swift"; sourceTree = "<group>"; };
 		A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
@@ -329,6 +331,7 @@
 				A473EA162966ED370087E751 /* 139. Word Break.swift */,
 				A473EA2129685DBB0087E751 /* 128. Longest Consecutive Sequence.swift */,
 				A473EA27296ADAD50087E751 /* 54. Spiral Matrix.swift */,
+				A473EA29296B04CA0087E751 /* 204. Count Primes.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -505,6 +508,7 @@
 				A455E7A5295A4B08003654B2 /* 349. Intersection of Two Arrays.swift in Sources */,
 				A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
+				A473EA2A296B04CA0087E751 /* 204. Count Primes.swift in Sources */,
 				A455E77F29559D02003654B2 /* 165. Compare Version Numbers.swift in Sources */,
 				A455E75F294B08CE003654B2 /* 398. Random Pick Index.swift in Sources */,
 				A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */,

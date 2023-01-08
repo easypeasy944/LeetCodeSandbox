@@ -105,6 +105,7 @@ Runner(
         WordBreak.Solution(),
         LongestConsecutiveSequence.Solution(),
         HappyNumber.Solution(),
-        SpiralMatrix.Solution()
+        SpiralMatrix.Solution(),
+        CountPrimes.Solution()
     ]
 ).run()
