@@ -107,6 +107,7 @@ Runner(
         HappyNumber.Solution(),
         SpiralMatrix.Solution(),
         CountPrimes.Solution(),
-        RangeSumQuery_Immutable.Solution()
+        RangeSumQuery_Immutable.Solution(),
+        BestTimeToBuyAndSellStock.Solution()
     ]
 ).run()
