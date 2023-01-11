@@ -108,6 +108,7 @@ Runner(
         SpiralMatrix.Solution(),
         CountPrimes.Solution(),
         RangeSumQuery_Immutable.Solution(),
-        BestTimeToBuyAndSellStock.Solution()
+        BestTimeToBuyAndSellStock.Solution(),
+        BuildArrayFromPermutation.Solution()
     ]
 ).run()
