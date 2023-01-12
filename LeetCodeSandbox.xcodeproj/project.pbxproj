@@ -77,6 +77,7 @@
 		A473EA2E296B64E50087E751 /* 303. Range Sum Query - Immutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA2D296B64E50087E751 /* 303. Range Sum Query - Immutable.swift */; };
 		A473EA30296D943D0087E751 /* 121. Best Time to Buy and Sell Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA2F296D943D0087E751 /* 121. Best Time to Buy and Sell Stock.swift */; };
 		A473EA32296F4AC30087E751 /* 1920. Build Array from Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA31296F4AC30087E751 /* 1920. Build Array from Permutation.swift */; };
+		A473EA342970996A0087E751 /* 1816. Truncate Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */; };
 		A49B587829374809009B3591 /* 120.Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587729374809009B3591 /* 120.Triangle.swift */; };
 		A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */; };
 		A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */; };
@@ -184,6 +185,7 @@
 		A473EA2D296B64E50087E751 /* 303. Range Sum Query - Immutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "303. Range Sum Query - Immutable.swift"; sourceTree = "<group>"; };
 		A473EA2F296D943D0087E751 /* 121. Best Time to Buy and Sell Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. Best Time to Buy and Sell Stock.swift"; sourceTree = "<group>"; };
 		A473EA31296F4AC30087E751 /* 1920. Build Array from Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920. Build Array from Permutation.swift"; sourceTree = "<group>"; };
+		A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1816. Truncate Sentence.swift"; sourceTree = "<group>"; };
 		A49B587729374809009B3591 /* 120.Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120.Triangle.swift; sourceTree = "<group>"; };
 		A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort colors.swift"; sourceTree = "<group>"; };
 		A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
@@ -384,6 +386,7 @@
 				A473EA2D296B64E50087E751 /* 303. Range Sum Query - Immutable.swift */,
 				A473EA2F296D943D0087E751 /* 121. Best Time to Buy and Sell Stock.swift */,
 				A473EA31296F4AC30087E751 /* 1920. Build Array from Permutation.swift */,
+				A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -519,6 +522,7 @@
 				A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */,
 				A455E7A5295A4B08003654B2 /* 349. Intersection of Two Arrays.swift in Sources */,
 				A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */,
+				A473EA342970996A0087E751 /* 1816. Truncate Sentence.swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
 				A473EA2A296B04CA0087E751 /* 204. Count Primes.swift in Sources */,
 				A455E77F29559D02003654B2 /* 165. Compare Version Numbers.swift in Sources */,

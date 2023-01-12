@@ -109,6 +109,7 @@ Runner(
         CountPrimes.Solution(),
         RangeSumQuery_Immutable.Solution(),
         BestTimeToBuyAndSellStock.Solution(),
-        BuildArrayFromPermutation.Solution()
+        BuildArrayFromPermutation.Solution(),
+        TruncateSentence.Solution()
     ]
 ).run()
