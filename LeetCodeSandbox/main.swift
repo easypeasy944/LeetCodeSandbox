@@ -110,6 +110,7 @@ Runner(
         RangeSumQuery_Immutable.Solution(),
         BestTimeToBuyAndSellStock.Solution(),
         BuildArrayFromPermutation.Solution(),
-        TruncateSentence.Solution()
+        TruncateSentence.Solution(),
+        MajorityElementII.Solution()
     ]
 ).run()
