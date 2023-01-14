@@ -113,6 +113,7 @@ Runner(
         TruncateSentence.Solution(),
         MajorityElementII.Solution(),
         FindTheDuplicateNumber.Solution(),
-        JumpGame.Solution()
+        JumpGame.Solution(),
+        CombinationSumIII.Solution()
     ]
 ).run()

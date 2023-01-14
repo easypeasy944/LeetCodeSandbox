@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
+		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -118,6 +119,7 @@
 
 /* Begin PBXFileReference section */
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
+		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -349,6 +351,7 @@
 				A473EA352971A8FB0087E751 /* 229. Majority Element II.swift */,
 				A473EA372972E8600087E751 /* 287. Find the Duplicate Number.swift */,
 				A427ADAA297300E300751FAC /* 55. Jump Game.swift */,
+				A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -461,6 +464,7 @@
 				A455E7AD295DC8AF003654B2 /* 143. Reorder List.swift in Sources */,
 				A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */,
 				A455E7B9296491C1003654B2 /* 2341. Maximum Number of Pairs in Array.swift in Sources */,
+				A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */,
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
 				A455E7BB2964943B003654B2 /* 51. N-Queens.swift in Sources */,
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,
