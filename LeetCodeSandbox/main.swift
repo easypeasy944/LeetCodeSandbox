@@ -112,6 +112,7 @@ Runner(
         BuildArrayFromPermutation.Solution(),
         TruncateSentence.Solution(),
         MajorityElementII.Solution(),
-        FindTheDuplicateNumber.Solution()
+        FindTheDuplicateNumber.Solution(),
+        JumpGame.Solution()
     ]
 ).run()
