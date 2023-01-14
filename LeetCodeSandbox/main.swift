@@ -111,6 +111,7 @@ Runner(
         BestTimeToBuyAndSellStock.Solution(),
         BuildArrayFromPermutation.Solution(),
         TruncateSentence.Solution(),
-        MajorityElementII.Solution()
+        MajorityElementII.Solution(),
+        FindTheDuplicateNumber.Solution()
     ]
 ).run()

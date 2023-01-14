@@ -79,6 +79,7 @@
 		A473EA32296F4AC30087E751 /* 1920. Build Array from Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA31296F4AC30087E751 /* 1920. Build Array from Permutation.swift */; };
 		A473EA342970996A0087E751 /* 1816. Truncate Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */; };
 		A473EA362971A8FB0087E751 /* 229. Majority Element II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA352971A8FB0087E751 /* 229. Majority Element II.swift */; };
+		A473EA382972E8600087E751 /* 287. Find the Duplicate Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A473EA372972E8600087E751 /* 287. Find the Duplicate Number.swift */; };
 		A49B587829374809009B3591 /* 120.Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587729374809009B3591 /* 120.Triangle.swift */; };
 		A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */; };
 		A49B5880293A403D009B3591 /* 11. Container With Most Water.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */; };
@@ -188,6 +189,7 @@
 		A473EA31296F4AC30087E751 /* 1920. Build Array from Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920. Build Array from Permutation.swift"; sourceTree = "<group>"; };
 		A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1816. Truncate Sentence.swift"; sourceTree = "<group>"; };
 		A473EA352971A8FB0087E751 /* 229. Majority Element II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "229. Majority Element II.swift"; sourceTree = "<group>"; };
+		A473EA372972E8600087E751 /* 287. Find the Duplicate Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "287. Find the Duplicate Number.swift"; sourceTree = "<group>"; };
 		A49B587729374809009B3591 /* 120.Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 120.Triangle.swift; sourceTree = "<group>"; };
 		A49B587A2938FF6E009B3591 /* 75. Sort colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "75. Sort colors.swift"; sourceTree = "<group>"; };
 		A49B587F293A403D009B3591 /* 11. Container With Most Water.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11. Container With Most Water.swift"; sourceTree = "<group>"; };
@@ -343,6 +345,7 @@
 				A473EA27296ADAD50087E751 /* 54. Spiral Matrix.swift */,
 				A473EA29296B04CA0087E751 /* 204. Count Primes.swift */,
 				A473EA352971A8FB0087E751 /* 229. Majority Element II.swift */,
+				A473EA372972E8600087E751 /* 287. Find the Duplicate Number.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -496,6 +499,7 @@
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
 				A455E749293F66D7003654B2 /* Heap.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
+				A473EA382972E8600087E751 /* 287. Find the Duplicate Number.swift in Sources */,
 				A455E7A9295C342B003654B2 /* 695. Max Area of Island.swift in Sources */,
 				A455E76B294E3FDE003654B2 /* 480. Sliding Window Median.swift in Sources */,
 				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,
