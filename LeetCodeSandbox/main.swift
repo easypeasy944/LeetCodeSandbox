@@ -115,6 +115,7 @@ Runner(
         FindTheDuplicateNumber.Solution(),
         JumpGame.Solution(),
         CombinationSumIII.Solution(),
-        SuperWashingMachines.Solution()
+        SuperWashingMachines.Solution(),
+        AppendKIntegersWithMinimalSum.Solution()
     ]
 ).run()
