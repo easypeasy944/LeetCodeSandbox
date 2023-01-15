@@ -13,6 +13,7 @@
 		A427ADB129742E8D00751FAC /* 2195. Append K Integers With Minimal Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADB029742E8D00751FAC /* 2195. Append K Integers With Minimal Sum.swift */; };
 		A427ADB529748E7400751FAC /* 133. Clone Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADB429748E7400751FAC /* 133. Clone Graph.swift */; };
 		A427ADB729749B1500751FAC /* 399. Evaluate Division.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADB629749B1500751FAC /* 399. Evaluate Division.swift */; };
+		A427ADB92974A51300751FAC /* 785. Is Graph Bipartite?.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADB82974A51300751FAC /* 785. Is Graph Bipartite?.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -128,6 +129,7 @@
 		A427ADB029742E8D00751FAC /* 2195. Append K Integers With Minimal Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2195. Append K Integers With Minimal Sum.swift"; sourceTree = "<group>"; };
 		A427ADB429748E7400751FAC /* 133. Clone Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "133. Clone Graph.swift"; sourceTree = "<group>"; };
 		A427ADB629749B1500751FAC /* 399. Evaluate Division.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "399. Evaluate Division.swift"; sourceTree = "<group>"; };
+		A427ADB82974A51300751FAC /* 785. Is Graph Bipartite?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "785. Is Graph Bipartite?.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -363,6 +365,7 @@
 				A427ADB029742E8D00751FAC /* 2195. Append K Integers With Minimal Sum.swift */,
 				A427ADB429748E7400751FAC /* 133. Clone Graph.swift */,
 				A427ADB629749B1500751FAC /* 399. Evaluate Division.swift */,
+				A427ADB82974A51300751FAC /* 785. Is Graph Bipartite?.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -571,6 +574,7 @@
 				A455E75529450D42003654B2 /* 45. Jump Game II.swift in Sources */,
 				A455E76F294F17E5003654B2 /* 557. Reverse Words in a String III.swift in Sources */,
 				A455E763294B12F1003654B2 /* 389. Find the Difference.swift in Sources */,
+				A427ADB92974A51300751FAC /* 785. Is Graph Bipartite?.swift in Sources */,
 				A455E77D29559418003654B2 /* 189. Rotate Array.swift in Sources */,
 				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
 			);

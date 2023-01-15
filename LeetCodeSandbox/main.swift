@@ -118,6 +118,7 @@ Runner(
         SuperWashingMachines.Solution(),
         AppendKIntegersWithMinimalSum.Solution(),
         CloneGraph.Solution(),
-        EvaluateDivision.Solution()
+        EvaluateDivision.Solution(),
+        IsGraphBipartite.Solution()
     ]
 ).run()
