@@ -117,6 +117,7 @@ Runner(
         CombinationSumIII.Solution(),
         SuperWashingMachines.Solution(),
         AppendKIntegersWithMinimalSum.Solution(),
-        CloneGraph.Solution()
+        CloneGraph.Solution(),
+        EvaluateDivision.Solution()
     ]
 ).run()
