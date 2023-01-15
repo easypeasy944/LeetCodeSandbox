@@ -116,6 +116,7 @@ Runner(
         JumpGame.Solution(),
         CombinationSumIII.Solution(),
         SuperWashingMachines.Solution(),
-        AppendKIntegersWithMinimalSum.Solution()
+        AppendKIntegersWithMinimalSum.Solution(),
+        CloneGraph.Solution()
     ]
 ).run()

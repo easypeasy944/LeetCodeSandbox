@@ -39,8 +39,8 @@ extension AppendKIntegersWithMinimalSum.Solution: SolutionProtocol {
     var testCases: [Validatable] {
         return [
             TestCase2(input1: [96,44,99,25,61,84,88,18,19,33,60,86,52,19,32,47,35,50,94,17,29,98,22,21,72,100,40,84], input2: 35, result: 794, func2: self.minimalKSum),
-//            TestCase2(input1: [5,6], input2: 6, result: 25, func2: self.minimalKSum),
-//            TestCase2(input1: [1,4,25,10,25], input2: 2, result: 5, func2: self.minimalKSum),
+            TestCase2(input1: [5,6], input2: 6, result: 25, func2: self.minimalKSum),
+            TestCase2(input1: [1,4,25,10,25], input2: 2, result: 5, func2: self.minimalKSum),
         ]
     }
 }
