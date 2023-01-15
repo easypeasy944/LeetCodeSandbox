@@ -114,6 +114,7 @@ Runner(
         MajorityElementII.Solution(),
         FindTheDuplicateNumber.Solution(),
         JumpGame.Solution(),
-        CombinationSumIII.Solution()
+        CombinationSumIII.Solution(),
+        SuperWashingMachines.Solution()
     ]
 ).run()
