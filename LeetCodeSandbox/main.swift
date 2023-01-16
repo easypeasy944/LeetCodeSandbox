@@ -121,6 +121,7 @@ Runner(
         EvaluateDivision.Solution(),
         IsGraphBipartite.Solution(),
         ContiguousArray.Solution(),
-        MinStack.Solution()
+        MinStack.Solution(),
+        NextGreaterElementI.Solution()
     ]
 ).run()
