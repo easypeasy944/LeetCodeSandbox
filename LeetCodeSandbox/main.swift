@@ -122,6 +122,7 @@ Runner(
         IsGraphBipartite.Solution(),
         ContiguousArray.Solution(),
         MinStack.Solution(),
-        NextGreaterElementI.Solution()
+        NextGreaterElementI.Solution(),
+        DailyTemperatures.Solution()
     ]
 ).run()
