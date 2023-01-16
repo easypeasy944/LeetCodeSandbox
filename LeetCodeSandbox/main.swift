@@ -120,6 +120,7 @@ Runner(
         CloneGraph.Solution(),
         EvaluateDivision.Solution(),
         IsGraphBipartite.Solution(),
-        ContiguousArray.Solution()
+        ContiguousArray.Solution(),
+        MinStack.Solution()
     ]
 ).run()
