@@ -119,6 +119,7 @@ Runner(
         AppendKIntegersWithMinimalSum.Solution(),
         CloneGraph.Solution(),
         EvaluateDivision.Solution(),
-        IsGraphBipartite.Solution()
+        IsGraphBipartite.Solution(),
+        ContiguousArray.Solution()
     ]
 ).run()
