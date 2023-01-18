@@ -109,6 +109,7 @@
 		A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */; };
 		A4ED365F29783E1400704C0D /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED365E29783E1400704C0D /* Queue.swift */; };
 		A4ED366129783F9C00704C0D /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */; };
+		A4ED36632978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */; };
 		A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */; };
 		A4F4FAD3290D508500FA2F15 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */; };
 		A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
@@ -234,6 +235,7 @@
 		A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		A4ED365E29783E1400704C0D /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
+		A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift"; sourceTree = "<group>"; };
 		A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
@@ -389,6 +391,7 @@
 				A427ADC22975DD2400751FAC /* 739. Daily Temperatures.swift */,
 				A427ADC62976F31A00751FAC /* 86. Partition List.swift */,
 				A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */,
+				A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -596,6 +599,7 @@
 				A473EA362971A8FB0087E751 /* 229. Majority Element II.swift in Sources */,
 				A46FD61828B3AABC00D33AF7 /* String+Extensions.swift in Sources */,
 				A427ADBF2975CDEF00751FAC /* Stack.swift in Sources */,
+				A4ED36632978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift in Sources */,
 				A455E79B2958D33C003654B2 /* 2357. Make Array Zero by Subtracting Equal Amounts.swift in Sources */,
 				A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */,
 				A473EA20296848130087E751 /* DisjointSet.swift in Sources */,

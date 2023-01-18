@@ -125,6 +125,7 @@ Runner(
 //        NextGreaterElementI.Solution(),
 //        DailyTemperatures.Solution(),
 //        PartitionList.Solution(),
-        RemoveNthNodeFromEndOfList.Solution()
+//        RemoveNthNodeFromEndOfList.Solution(),
+        FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.Solution()
     ]
 ).run()
