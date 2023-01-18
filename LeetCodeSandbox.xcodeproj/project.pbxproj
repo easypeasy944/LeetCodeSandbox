@@ -107,6 +107,7 @@
 		A4A7016C28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */; };
 		A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */; };
 		A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */; };
+		A4ED365F29783E1400704C0D /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED365E29783E1400704C0D /* Queue.swift */; };
 		A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */; };
 		A4F4FAD3290D508500FA2F15 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */; };
 		A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
@@ -230,6 +231,7 @@
 		A4A7016B28B8D5FF00BB3EAE /* 70. Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. Climbing Stairs.swift"; sourceTree = "<group>"; };
 		A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
+		A4ED365E29783E1400704C0D /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
@@ -256,6 +258,7 @@
 				A455E748293F66D7003654B2 /* Heap.swift */,
 				A473EA1F296848130087E751 /* DisjointSet.swift */,
 				A427ADBE2975CDEF00751FAC /* Stack.swift */,
+				A4ED365E29783E1400704C0D /* Queue.swift */,
 			);
 			path = "Basic data structures";
 			sourceTree = "<group>";
@@ -537,6 +540,7 @@
 				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
 				A455E771294F2359003654B2 /* 560. Subarray Sum Equals K.swift in Sources */,
 				A455E7BD29649DE0003654B2 /* 1001. Grid Illumination.swift in Sources */,
+				A4ED365F29783E1400704C0D /* Queue.swift in Sources */,
 				A455E761294B109E003654B2 /* 383. Ransom Note.swift in Sources */,
 				A427ADC72976F31A00751FAC /* 86. Partition List.swift in Sources */,
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
