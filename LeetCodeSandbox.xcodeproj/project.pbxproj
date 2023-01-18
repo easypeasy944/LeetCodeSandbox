@@ -110,6 +110,7 @@
 		A4ED365F29783E1400704C0D /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED365E29783E1400704C0D /* Queue.swift */; };
 		A4ED366129783F9C00704C0D /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */; };
 		A4ED36632978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */; };
+		A4ED366529788E1D00704C0D /* 141. Linked List Cycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED366429788E1D00704C0D /* 141. Linked List Cycle.swift */; };
 		A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */; };
 		A4F4FAD3290D508500FA2F15 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */; };
 		A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
@@ -236,6 +237,7 @@
 		A4ED365E29783E1400704C0D /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 		A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift"; sourceTree = "<group>"; };
+		A4ED366429788E1D00704C0D /* 141. Linked List Cycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "141. Linked List Cycle.swift"; sourceTree = "<group>"; };
 		A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
@@ -441,6 +443,7 @@
 				A473EA31296F4AC30087E751 /* 1920. Build Array from Permutation.swift */,
 				A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */,
 				A427ADC02975CF2300751FAC /* 496. Next Greater Element I.swift */,
+				A4ED366429788E1D00704C0D /* 141. Linked List Cycle.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -517,6 +520,7 @@
 				A473EA2E296B64E50087E751 /* 303. Range Sum Query - Immutable.swift in Sources */,
 				A455E779295364C9003654B2 /* 66. Plus One.swift in Sources */,
 				A455E77729520EC2003654B2 /* 7. Reverse Integer.swift in Sources */,
+				A4ED366529788E1D00704C0D /* 141. Linked List Cycle.swift in Sources */,
 				A455E7812955A009003654B2 /* 283. Move Zeroes.swift in Sources */,
 				A455E7B529636656003654B2 /* 451. Sort Characters By Frequency.swift in Sources */,
 				A455E7832955AB03003654B2 /* 279. Perfect Squares.swift in Sources */,
