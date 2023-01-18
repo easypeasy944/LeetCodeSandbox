@@ -124,6 +124,7 @@ Runner(
 //        MinStack.Solution(),
 //        NextGreaterElementI.Solution(),
 //        DailyTemperatures.Solution(),
-        PartitionList.Solution(),
+//        PartitionList.Solution(),
+        RemoveNthNodeFromEndOfList.Solution()
     ]
 ).run()

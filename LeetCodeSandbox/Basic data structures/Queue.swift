@@ -10,7 +10,7 @@ import Foundation
 struct Queue<T> {
     class Node {
         let val: T
-        weak var next: Node?
+        var next: Node?
         
         init(val: T, next: Node? = nil) {
             self.val = val
@@ -22,6 +22,14 @@ struct Queue<T> {
     private var tail: Node? = nil
     private(set) var count: Int = 0
     private let size: Int
+    
+    var last: T? {
+        return tail?.val
+    }
+    
+    var first: T? {
+        return head?.val
+    }
     
     init(size: Int) {
         self.size = size
@@ -40,6 +48,7 @@ struct Queue<T> {
             tail?.next = newNode
             tail = newNode
         }
+        count = min(size, count + 1)
     }
     
     mutating func pop() -> T? {
@@ -48,6 +57,7 @@ struct Queue<T> {
         if head == nil {
             tail = nil
         }
+        count = max(0, count - 1)
         return value
     }
 }

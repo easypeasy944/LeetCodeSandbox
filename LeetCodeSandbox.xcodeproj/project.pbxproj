@@ -108,6 +108,7 @@
 		A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */; };
 		A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */; };
 		A4ED365F29783E1400704C0D /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED365E29783E1400704C0D /* Queue.swift */; };
+		A4ED366129783F9C00704C0D /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */; };
 		A4F4FAD1290D41B700FA2F15 /* 100. Same Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */; };
 		A4F4FAD3290D508500FA2F15 /* 113. Path Sum II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */; };
 		A4F4FAD5290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */; };
@@ -232,6 +233,7 @@
 		A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		A4ED365E29783E1400704C0D /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 		A4F4FAD0290D41B700FA2F15 /* 100. Same Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100. Same Tree.swift"; sourceTree = "<group>"; };
 		A4F4FAD2290D508500FA2F15 /* 113. Path Sum II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113. Path Sum II.swift"; sourceTree = "<group>"; };
 		A4F4FAD4290D5B6D00FA2F15 /* 117. Populating Next Right Pointers in Each Node II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117. Populating Next Right Pointers in Each Node II.swift"; sourceTree = "<group>"; };
@@ -386,6 +388,7 @@
 				A427ADBC29759B0B00751FAC /* 155. Min Stack.swift */,
 				A427ADC22975DD2400751FAC /* 739. Daily Temperatures.swift */,
 				A427ADC62976F31A00751FAC /* 86. Partition List.swift */,
+				A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -598,6 +601,7 @@
 				A473EA20296848130087E751 /* DisjointSet.swift in Sources */,
 				A455E77B29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */,
 				A455E75B2945F3B2003654B2 /* 179. Largest Number.swift in Sources */,
+				A4ED366129783F9C00704C0D /* 19. Remove Nth Node From End of List.swift in Sources */,
 				A455E75529450D42003654B2 /* 45. Jump Game II.swift in Sources */,
 				A455E76F294F17E5003654B2 /* 557. Reverse Words in a String III.swift in Sources */,
 				A427ADC32975DD2400751FAC /* 739. Daily Temperatures.swift in Sources */,
