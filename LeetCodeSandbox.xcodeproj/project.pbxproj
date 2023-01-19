@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */; };
+		A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -135,6 +136,7 @@
 
 /* Begin PBXFileReference section */
 		A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "974. Subarray Sums Divisible by K.swift"; sourceTree = "<group>"; };
+		A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2364. Count Number of Bad Pairs.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -397,6 +399,7 @@
 				A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */,
 				A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */,
 				A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */,
+				A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -576,6 +579,7 @@
 				A4F4FAD7290E92AB00FA2F15 /* 109. Convert Sorted List to Binary Search Tree.swift in Sources */,
 				A455E78B2957630C003654B2 /* 33. Search in Rotated Sorted Array.swift in Sources */,
 				A49B5885293B51C5009B3591 /* 238. Product of Array Except Self.swift in Sources */,
+				A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */,
 				A427ADC12975CF2300751FAC /* 496. Next Greater Element I.swift in Sources */,
 				A455E78F29576AE0003654B2 /* 284. Peeking Iterator.swift in Sources */,
 				A4A7016A28B8BFB600BB3EAE /* 41. First Missing Positive.swift in Sources */,
