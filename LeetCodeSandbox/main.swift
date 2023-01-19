@@ -127,6 +127,7 @@ Runner(
 //        PartitionList.Solution(),
 //        RemoveNthNodeFromEndOfList.Solution(),
 //        FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.Solution(),
-        LinkedListCycle.Solution()
+//        LinkedListCycle.Solution(),
+        SubarraySumsDivisibleByK.Solution()
     ]
 ).run()

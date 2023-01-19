@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -133,6 +134,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "974. Subarray Sums Divisible by K.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -394,6 +396,7 @@
 				A427ADC62976F31A00751FAC /* 86. Partition List.swift */,
 				A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */,
 				A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */,
+				A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -608,6 +611,7 @@
 				A49B5883293A4BDD009B3591 /* 42. Trapping Rain Water.swift in Sources */,
 				A473EA20296848130087E751 /* DisjointSet.swift in Sources */,
 				A455E77B29544E65003654B2 /* 236. Lowest Common Ancestor of a Binary Tree.swift in Sources */,
+				A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */,
 				A455E75B2945F3B2003654B2 /* 179. Largest Number.swift in Sources */,
 				A4ED366129783F9C00704C0D /* 19. Remove Nth Node From End of List.swift in Sources */,
 				A455E75529450D42003654B2 /* 45. Jump Game II.swift in Sources */,
