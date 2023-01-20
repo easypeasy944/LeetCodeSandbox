@@ -129,6 +129,7 @@ Runner(
 //        FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.Solution(),
 //        LinkedListCycle.Solution(),
 //        SubarraySumsDivisibleByK.Solution(),
-        CountNumberOfBadPairs.Solution()
+//        CountNumberOfBadPairs.Solution(),
+        ArrayPartition.Solution()
     ]
 ).run()

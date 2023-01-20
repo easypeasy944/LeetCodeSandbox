@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */; };
 		A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */; };
+		A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B054297B271100DAEA80 /* 561. Array Partition.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -137,6 +138,7 @@
 /* Begin PBXFileReference section */
 		A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "974. Subarray Sums Divisible by K.swift"; sourceTree = "<group>"; };
 		A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2364. Count Number of Bad Pairs.swift"; sourceTree = "<group>"; };
+		A408B054297B271100DAEA80 /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -450,6 +452,7 @@
 				A473EA332970996A0087E751 /* 1816. Truncate Sentence.swift */,
 				A427ADC02975CF2300751FAC /* 496. Next Greater Element I.swift */,
 				A4ED366429788E1D00704C0D /* 141. Linked List Cycle.swift */,
+				A408B054297B271100DAEA80 /* 561. Array Partition.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -514,6 +517,7 @@
 			files = (
 				A455E7AD295DC8AF003654B2 /* 143. Reorder List.swift in Sources */,
 				A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */,
+				A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */,
 				A455E7B9296491C1003654B2 /* 2341. Maximum Number of Pairs in Array.swift in Sources */,
 				A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */,
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
