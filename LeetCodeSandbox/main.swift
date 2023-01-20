@@ -130,6 +130,7 @@ Runner(
 //        LinkedListCycle.Solution(),
 //        SubarraySumsDivisibleByK.Solution(),
 //        CountNumberOfBadPairs.Solution(),
-        ArrayPartition.Solution()
+//        ArrayPartition.Solution(),
+        AllDivisionsWithTheHighestScoreOfABinaryArray.Solution()
     ]
 ).run()
