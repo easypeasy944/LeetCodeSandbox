@@ -11,6 +11,7 @@
 		A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */; };
 		A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B054297B271100DAEA80 /* 561. Array Partition.swift */; };
 		A408B057297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B056297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift */; };
+		A408B05B297C739800DAEA80 /* 414. Third Maximum Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B05A297C739800DAEA80 /* 414. Third Maximum Number.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -141,6 +142,7 @@
 		A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2364. Count Number of Bad Pairs.swift"; sourceTree = "<group>"; };
 		A408B054297B271100DAEA80 /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
 		A408B056297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2155. All Divisions With the Highest Score of a Binary Array.swift"; sourceTree = "<group>"; };
+		A408B05A297C739800DAEA80 /* 414. Third Maximum Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "414. Third Maximum Number.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -456,6 +458,7 @@
 				A427ADC02975CF2300751FAC /* 496. Next Greater Element I.swift */,
 				A4ED366429788E1D00704C0D /* 141. Linked List Cycle.swift */,
 				A408B054297B271100DAEA80 /* 561. Array Partition.swift */,
+				A408B05A297C739800DAEA80 /* 414. Third Maximum Number.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -537,6 +540,7 @@
 				A455E7812955A009003654B2 /* 283. Move Zeroes.swift in Sources */,
 				A455E7B529636656003654B2 /* 451. Sort Characters By Frequency.swift in Sources */,
 				A455E7832955AB03003654B2 /* 279. Perfect Squares.swift in Sources */,
+				A408B05B297C739800DAEA80 /* 414. Third Maximum Number.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,

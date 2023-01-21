@@ -131,6 +131,7 @@ Runner(
 //        SubarraySumsDivisibleByK.Solution(),
 //        CountNumberOfBadPairs.Solution(),
 //        ArrayPartition.Solution(),
-        AllDivisionsWithTheHighestScoreOfABinaryArray.Solution()
+//        AllDivisionsWithTheHighestScoreOfABinaryArray.Solution(),
+        ThirdMaximumNumber.Solution()
     ]
 ).run()
