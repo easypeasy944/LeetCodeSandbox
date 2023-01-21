@@ -132,6 +132,7 @@ Runner(
 //        CountNumberOfBadPairs.Solution(),
 //        ArrayPartition.Solution(),
 //        AllDivisionsWithTheHighestScoreOfABinaryArray.Solution(),
-        ThirdMaximumNumber.Solution()
+//        ThirdMaximumNumber.Solution(),
+        CountOfSmallerNumbersAfterSelf.Solution()
     ]
 ).run()
