@@ -134,6 +134,7 @@ Runner(
 //        AllDivisionsWithTheHighestScoreOfABinaryArray.Solution(),
 //        ThirdMaximumNumber.Solution(),
 //        CountOfSmallerNumbersAfterSelf.Solution(),
-        DecodeXORedArray.Solution()
+//        DecodeXORedArray.Solution(),
+        CountingBits.Solution()
     ]
 ).run()
