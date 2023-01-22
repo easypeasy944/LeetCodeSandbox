@@ -18,6 +18,7 @@
 		A408B063297D827000DAEA80 /* 231. Power of Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B062297D827000DAEA80 /* 231. Power of Two.swift */; };
 		A408B065297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B064297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift */; };
 		A408B067297DCC8100DAEA80 /* 43. Multiply Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B066297DCC8100DAEA80 /* 43. Multiply Strings.swift */; };
+		A408B069297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -155,6 +156,7 @@
 		A408B062297D827000DAEA80 /* 231. Power of Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "231. Power of Two.swift"; sourceTree = "<group>"; };
 		A408B064297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "232. Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
 		A408B066297DCC8100DAEA80 /* 43. Multiply Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "43. Multiply Strings.swift"; sourceTree = "<group>"; };
+		A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2288. Apply Discount to Prices.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -420,6 +422,7 @@
 				A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */,
 				A408B056297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift */,
 				A408B066297DCC8100DAEA80 /* 43. Multiply Strings.swift */,
+				A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -571,6 +574,7 @@
 				A455E769294E12F4003654B2 /* 295. Find Median from Data Stream.swift in Sources */,
 				A49B5888293B5FF0009B3591 /* 88. Merge Sorted Array.swift in Sources */,
 				A455E731293D2EBD003654B2 /* 498. Diagonal Traverse.swift in Sources */,
+				A408B069297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift in Sources */,
 				A4F4FAD9290E9F6E00FA2F15 /* 222. Count Complete Tree Nodes.swift in Sources */,
 				A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */,
 				A408B063297D827000DAEA80 /* 231. Power of Two.swift in Sources */,

@@ -138,6 +138,7 @@ Runner(
 //        CountingBits.Solution(),
 //        PowerOfTwo.Solution(),
 //        ImplementQueueUsingStacks.Solution(),
-        MultiplyStrings.Solution(),
+//        MultiplyStrings.Solution(),
+        ApplyDiscountToPrices.Solution(),
     ]
 ).run()
