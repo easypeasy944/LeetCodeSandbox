@@ -137,6 +137,7 @@ Runner(
 //        DecodeXORedArray.Solution(),
 //        CountingBits.Solution(),
 //        PowerOfTwo.Solution(),
-        ImplementQueueUsingStacks.Solution()
+//        ImplementQueueUsingStacks.Solution(),
+        MultiplyStrings.Solution(),
     ]
 ).run()
