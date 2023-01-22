@@ -135,6 +135,7 @@ Runner(
 //        ThirdMaximumNumber.Solution(),
 //        CountOfSmallerNumbersAfterSelf.Solution(),
 //        DecodeXORedArray.Solution(),
-        CountingBits.Solution()
+//        CountingBits.Solution(),
+        PowerOfTwo.Solution()
     ]
 ).run()
