@@ -16,6 +16,7 @@
 		A408B05F297D611900DAEA80 /* 1720. Decode XORed Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B05E297D611900DAEA80 /* 1720. Decode XORed Array.swift */; };
 		A408B061297D632700DAEA80 /* 338. Counting Bits.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B060297D632700DAEA80 /* 338. Counting Bits.swift */; };
 		A408B063297D827000DAEA80 /* 231. Power of Two.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B062297D827000DAEA80 /* 231. Power of Two.swift */; };
+		A408B065297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B064297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -151,6 +152,7 @@
 		A408B05E297D611900DAEA80 /* 1720. Decode XORed Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1720. Decode XORed Array.swift"; sourceTree = "<group>"; };
 		A408B060297D632700DAEA80 /* 338. Counting Bits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "338. Counting Bits.swift"; sourceTree = "<group>"; };
 		A408B062297D827000DAEA80 /* 231. Power of Two.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "231. Power of Two.swift"; sourceTree = "<group>"; };
+		A408B064297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "232. Implement Queue using Stacks.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -471,6 +473,7 @@
 				A408B05E297D611900DAEA80 /* 1720. Decode XORed Array.swift */,
 				A408B060297D632700DAEA80 /* 338. Counting Bits.swift */,
 				A408B062297D827000DAEA80 /* 231. Power of Two.swift */,
+				A408B064297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -591,6 +594,7 @@
 				A408B057297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift in Sources */,
 				A408B05F297D611900DAEA80 /* 1720. Decode XORed Array.swift in Sources */,
 				A455E7A9295C342B003654B2 /* 695. Max Area of Island.swift in Sources */,
+				A408B065297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift in Sources */,
 				A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */,
 				A455E76B294E3FDE003654B2 /* 480. Sliding Window Median.swift in Sources */,
 				A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */,

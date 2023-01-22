@@ -136,6 +136,7 @@ Runner(
 //        CountOfSmallerNumbersAfterSelf.Solution(),
 //        DecodeXORedArray.Solution(),
 //        CountingBits.Solution(),
-        PowerOfTwo.Solution()
+//        PowerOfTwo.Solution(),
+        ImplementQueueUsingStacks.Solution()
     ]
 ).run()
