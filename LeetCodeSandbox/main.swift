@@ -133,6 +133,7 @@ Runner(
 //        ArrayPartition.Solution(),
 //        AllDivisionsWithTheHighestScoreOfABinaryArray.Solution(),
 //        ThirdMaximumNumber.Solution(),
-        CountOfSmallerNumbersAfterSelf.Solution()
+//        CountOfSmallerNumbersAfterSelf.Solution(),
+        DecodeXORedArray.Solution()
     ]
 ).run()
