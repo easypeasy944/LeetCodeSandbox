@@ -139,6 +139,7 @@ Runner(
 //        PowerOfTwo.Solution(),
 //        ImplementQueueUsingStacks.Solution(),
 //        MultiplyStrings.Solution(),
-        ApplyDiscountToPrices.Solution(),
+//        ApplyDiscountToPrices.Solution(),
+        KthLargestElementInAnArray.Solution(),
     ]
 ).run()
