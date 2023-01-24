@@ -20,6 +20,7 @@
 		A408B067297DCC8100DAEA80 /* 43. Multiply Strings.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B066297DCC8100DAEA80 /* 43. Multiply Strings.swift */; };
 		A408B069297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */; };
 		A408B06D297F124900DAEA80 /* 215. Kth Largest Element in an Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B06C297F124900DAEA80 /* 215. Kth Largest Element in an Array.swift */; };
+		A408B06F297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B06E297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -159,6 +160,7 @@
 		A408B066297DCC8100DAEA80 /* 43. Multiply Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "43. Multiply Strings.swift"; sourceTree = "<group>"; };
 		A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2288. Apply Discount to Prices.swift"; sourceTree = "<group>"; };
 		A408B06C297F124900DAEA80 /* 215. Kth Largest Element in an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "215. Kth Largest Element in an Array.swift"; sourceTree = "<group>"; };
+		A408B06E297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "692. Top K Frequent Words.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -426,6 +428,7 @@
 				A408B066297DCC8100DAEA80 /* 43. Multiply Strings.swift */,
 				A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */,
 				A408B06C297F124900DAEA80 /* 215. Kth Largest Element in an Array.swift */,
+				A408B06E297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -571,6 +574,7 @@
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */,
+				A408B06F297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift in Sources */,
 				A455E79F2959F6B3003654B2 /* 455. Assign Cookies.swift in Sources */,
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,
