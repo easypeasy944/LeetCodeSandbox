@@ -23,6 +23,7 @@
 		A408B06F297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B06E297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift */; };
 		A408B0712981A63D00DAEA80 /* 396. Rotate Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0702981A63D00DAEA80 /* 396. Rotate Function.swift */; };
 		A408B0732981AAE600DAEA80 /* 397. Integer Replacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0722981AAE600DAEA80 /* 397. Integer Replacement.swift */; };
+		A408B0752981BC0800DAEA80 /* 443. String Compression.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0742981BC0800DAEA80 /* 443. String Compression.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -165,6 +166,7 @@
 		A408B06E297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "692. Top K Frequent Words.swift"; sourceTree = "<group>"; };
 		A408B0702981A63D00DAEA80 /* 396. Rotate Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "396. Rotate Function.swift"; sourceTree = "<group>"; };
 		A408B0722981AAE600DAEA80 /* 397. Integer Replacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "397. Integer Replacement.swift"; sourceTree = "<group>"; };
+		A408B0742981BC0800DAEA80 /* 443. String Compression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "443. String Compression.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -435,6 +437,7 @@
 				A408B06E297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift */,
 				A408B0702981A63D00DAEA80 /* 396. Rotate Function.swift */,
 				A408B0722981AAE600DAEA80 /* 397. Integer Replacement.swift */,
+				A408B0742981BC0800DAEA80 /* 443. String Compression.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -564,6 +567,7 @@
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
 				A455E7BB2964943B003654B2 /* 51. N-Queens.swift in Sources */,
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,
+				A408B0752981BC0800DAEA80 /* 443. String Compression.swift in Sources */,
 				A455E76D294E4B90003654B2 /* 481. Magical String.swift in Sources */,
 				A455E7592945DAC6003654B2 /* 162. Find Peak Element.swift in Sources */,
 				A455E7C32965C30D003654B2 /* 146. LRU Cache.swift in Sources */,

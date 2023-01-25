@@ -143,6 +143,7 @@ Runner(
 //        KthLargestElementInAnArray.Solution(),
 //        TopKFrequentWords.Solution(),
 //        RotateFunction.Solution(),
-        IntegerReplacement.Solution(),
+//        IntegerReplacement.Solution(),
+        StringCompression.Solution(),
     ]
 ).run()
