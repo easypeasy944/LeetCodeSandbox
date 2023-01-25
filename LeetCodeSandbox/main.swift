@@ -142,6 +142,7 @@ Runner(
 //        ApplyDiscountToPrices.Solution(),
 //        KthLargestElementInAnArray.Solution(),
 //        TopKFrequentWords.Solution(),
-        RotateFunction.Solution(),
+//        RotateFunction.Solution(),
+        IntegerReplacement.Solution(),
     ]
 ).run()

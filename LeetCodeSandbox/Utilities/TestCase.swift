@@ -96,7 +96,7 @@ struct TestCase1<Input1, Result: Equatable>: TestCase {
     }
     
     var `func`: () -> Result {
-        { self.func1(self.input1) }
+            { self.func1(self.input1) }
     }
 }
 
