@@ -144,6 +144,7 @@ Runner(
 //        TopKFrequentWords.Solution(),
 //        RotateFunction.Solution(),
 //        IntegerReplacement.Solution(),
-        StringCompression.Solution(),
+//        StringCompression.Solution(),
+        FirstBadVersion.Solution(),
     ]
 ).run()
