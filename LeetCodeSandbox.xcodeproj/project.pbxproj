@@ -27,6 +27,7 @@
 		A408B077298270C100DAEA80 /* 278. First Bad Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B076298270C100DAEA80 /* 278. First Bad Version.swift */; };
 		A408B07929839B9700DAEA80 /* 80. Remove Duplicates from Sorted Array II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B07829839B9700DAEA80 /* 80. Remove Duplicates from Sorted Array II.swift */; };
 		A408B07B2983A17900DAEA80 /* 500. Keyboard Row.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B07A2983A17900DAEA80 /* 500. Keyboard Row.swift */; };
+		A408B07F2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B07E2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -173,6 +174,7 @@
 		A408B076298270C100DAEA80 /* 278. First Bad Version.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "278. First Bad Version.swift"; sourceTree = "<group>"; };
 		A408B07829839B9700DAEA80 /* 80. Remove Duplicates from Sorted Array II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. Remove Duplicates from Sorted Array II.swift"; sourceTree = "<group>"; };
 		A408B07A2983A17900DAEA80 /* 500. Keyboard Row.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "500. Keyboard Row.swift"; sourceTree = "<group>"; };
+		A408B07E2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. Best Time to Buy and Sell Stock II.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -445,6 +447,7 @@
 				A408B0722981AAE600DAEA80 /* 397. Integer Replacement.swift */,
 				A408B0742981BC0800DAEA80 /* 443. String Compression.swift */,
 				A408B07829839B9700DAEA80 /* 80. Remove Duplicates from Sorted Array II.swift */,
+				A408B07E2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -671,6 +674,7 @@
 				A473EA342970996A0087E751 /* 1816. Truncate Sentence.swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
 				A473EA2A296B04CA0087E751 /* 204. Count Primes.swift in Sources */,
+				A408B07F2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
 				A455E77F29559D02003654B2 /* 165. Compare Version Numbers.swift in Sources */,
 				A455E75F294B08CE003654B2 /* 398. Random Pick Index.swift in Sources */,
 				A427ADB529748E7400751FAC /* 133. Clone Graph.swift in Sources */,
