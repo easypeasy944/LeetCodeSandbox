@@ -149,6 +149,7 @@ Runner(
 //        RemoveDuplicatesFromSortedArrayII.Solution(),
 //        KeyboardRow.Solution(),
 //        BestTimeToBuyAndSellStockII.Solution(),
-        BestTimeToBuyAndSellStockIII.Solution(),
+//        BestTimeToBuyAndSellStockIII.Solution(),
+        HeightChecker.Solution(),
     ]
 ).run()
