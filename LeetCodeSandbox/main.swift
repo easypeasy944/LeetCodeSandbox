@@ -150,6 +150,7 @@ Runner(
 //        KeyboardRow.Solution(),
 //        BestTimeToBuyAndSellStockII.Solution(),
 //        BestTimeToBuyAndSellStockIII.Solution(),
-        HeightChecker.Solution(),
+//        HeightChecker.Solution(),
+        SortThePeople.Solution(),
     ]
 ).run()
