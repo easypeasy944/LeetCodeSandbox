@@ -151,6 +151,7 @@ Runner(
 //        BestTimeToBuyAndSellStockII.Solution(),
 //        BestTimeToBuyAndSellStockIII.Solution(),
 //        HeightChecker.Solution(),
-        SortThePeople.Solution(),
+//        SortThePeople.Solution(),
+        ValidBoomerang.Solution(),
     ]
 ).run()
