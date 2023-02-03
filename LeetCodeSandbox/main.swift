@@ -153,6 +153,7 @@ Runner(
 //        HeightChecker.Solution(),
 //        SortThePeople.Solution(),
 //        ValidBoomerang.Solution(),
-        ArithmeticSlices.Solution(),
+//        ArithmeticSlices.Solution(),
+        MinimumDeletionsToMakeArrayDivisible.Solution(),
     ]
 ).run()
