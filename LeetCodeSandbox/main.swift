@@ -152,6 +152,7 @@ Runner(
 //        BestTimeToBuyAndSellStockIII.Solution(),
 //        HeightChecker.Solution(),
 //        SortThePeople.Solution(),
-        ValidBoomerang.Solution(),
+//        ValidBoomerang.Solution(),
+        ArithmeticSlices.Solution(),
     ]
 ).run()
