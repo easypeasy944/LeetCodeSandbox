@@ -35,6 +35,7 @@
 		A408B08B298D92EA00DAEA80 /* 413. Arithmetic Slices.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B08A298D92EA00DAEA80 /* 413. Arithmetic Slices.swift */; };
 		A408B08D298D98F700DAEA80 /* 2344. Minimum Deletions to Make Array Divisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B08C298D98F700DAEA80 /* 2344. Minimum Deletions to Make Array Divisible.swift */; };
 		A408B08F298D9C5C00DAEA80 /* MaxDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B08E298D9C5C00DAEA80 /* MaxDivider.swift */; };
+		A408B091298EF72300DAEA80 /* 1929. Concatenation of Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B090298EF72300DAEA80 /* 1929. Concatenation of Array.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -189,6 +190,7 @@
 		A408B08A298D92EA00DAEA80 /* 413. Arithmetic Slices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "413. Arithmetic Slices.swift"; sourceTree = "<group>"; };
 		A408B08C298D98F700DAEA80 /* 2344. Minimum Deletions to Make Array Divisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2344. Minimum Deletions to Make Array Divisible.swift"; sourceTree = "<group>"; };
 		A408B08E298D9C5C00DAEA80 /* MaxDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxDivider.swift; sourceTree = "<group>"; };
+		A408B090298EF72300DAEA80 /* 1929. Concatenation of Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1929. Concatenation of Array.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -528,6 +530,7 @@
 				A408B0822986C8A300DAEA80 /* 1051. Height Checker.swift */,
 				A408B0842987C8A500DAEA80 /* 2418. Sort the People.swift */,
 				A408B08629890BAF00DAEA80 /* 1037. Valid Boomerang.swift */,
+				A408B090298EF72300DAEA80 /* 1929. Concatenation of Array.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -640,6 +643,7 @@
 				A427ADBD29759B0B00751FAC /* 155. Min Stack.swift in Sources */,
 				A455E7872955F3A5003654B2 /* 344. Reverse String.swift in Sources */,
 				A455E74F2941270C003654B2 /* 436. Find Right Interval.swift in Sources */,
+				A408B091298EF72300DAEA80 /* 1929. Concatenation of Array.swift in Sources */,
 				A473EA32296F4AC30087E751 /* 1920. Build Array from Permutation.swift in Sources */,
 				A473EA242969E9330087E751 /* 202. Happy Number.swift in Sources */,
 				A455E7752951CFFC003654B2 /* 118. Pascal's Triangle.swift in Sources */,

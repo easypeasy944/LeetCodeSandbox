@@ -154,6 +154,7 @@ Runner(
 //        SortThePeople.Solution(),
 //        ValidBoomerang.Solution(),
 //        ArithmeticSlices.Solution(),
-        MinimumDeletionsToMakeArrayDivisible.Solution(),
+//        MinimumDeletionsToMakeArrayDivisible.Solution(),
+        ConcatenationOfArray.Solution(),
     ]
 ).run()
