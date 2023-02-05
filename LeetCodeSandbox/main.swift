@@ -155,6 +155,7 @@ Runner(
 //        ValidBoomerang.Solution(),
 //        ArithmeticSlices.Solution(),
 //        MinimumDeletionsToMakeArrayDivisible.Solution(),
-        ConcatenationOfArray.Solution(),
+//        ConcatenationOfArray.Solution(),
+        FindMissingObservations.Solution(),
     ]
 ).run()
