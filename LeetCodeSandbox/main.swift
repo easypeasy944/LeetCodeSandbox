@@ -156,6 +156,7 @@ Runner(
 //        ArithmeticSlices.Solution(),
 //        MinimumDeletionsToMakeArrayDivisible.Solution(),
 //        ConcatenationOfArray.Solution(),
-        FindMissingObservations.Solution(),
+//        FindMissingObservations.Solution(),
+        RunningSumOf1dArray.Solution(),
     ]
 ).run()
