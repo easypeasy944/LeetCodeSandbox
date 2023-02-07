@@ -38,6 +38,7 @@
 		A408B091298EF72300DAEA80 /* 1929. Concatenation of Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B090298EF72300DAEA80 /* 1929. Concatenation of Array.swift */; };
 		A408B093298FC13A00DAEA80 /* 2028. Find Missing Observations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B092298FC13A00DAEA80 /* 2028. Find Missing Observations.swift */; };
 		A408B09729917E9300DAEA80 /* 1480. Running Sum of 1d Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B09629917E9300DAEA80 /* 1480. Running Sum of 1d Array.swift */; };
+		A408B0992992E6AD00DAEA80 /* 832. Flipping an Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0982992E6AD00DAEA80 /* 832. Flipping an Image.swift */; };
 		A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAA297300E300751FAC /* 55. Jump Game.swift */; };
 		A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */; };
 		A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */; };
@@ -195,6 +196,7 @@
 		A408B090298EF72300DAEA80 /* 1929. Concatenation of Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1929. Concatenation of Array.swift"; sourceTree = "<group>"; };
 		A408B092298FC13A00DAEA80 /* 2028. Find Missing Observations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2028. Find Missing Observations.swift"; sourceTree = "<group>"; };
 		A408B09629917E9300DAEA80 /* 1480. Running Sum of 1d Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1480. Running Sum of 1d Array.swift"; sourceTree = "<group>"; };
+		A408B0982992E6AD00DAEA80 /* 832. Flipping an Image.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "832. Flipping an Image.swift"; sourceTree = "<group>"; };
 		A427ADAA297300E300751FAC /* 55. Jump Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55. Jump Game.swift"; sourceTree = "<group>"; };
 		A427ADAC2973034F00751FAC /* 216. Combination Sum III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "216. Combination Sum III.swift"; sourceTree = "<group>"; };
 		A427ADAE297410A700751FAC /* 517. Super Washing Machines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "517. Super Washing Machines.swift"; sourceTree = "<group>"; };
@@ -537,6 +539,7 @@
 				A408B08629890BAF00DAEA80 /* 1037. Valid Boomerang.swift */,
 				A408B090298EF72300DAEA80 /* 1929. Concatenation of Array.swift */,
 				A408B09629917E9300DAEA80 /* 1480. Running Sum of 1d Array.swift */,
+				A408B0982992E6AD00DAEA80 /* 832. Flipping an Image.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -655,6 +658,7 @@
 				A455E7752951CFFC003654B2 /* 118. Pascal's Triangle.swift in Sources */,
 				A455E753294506D9003654B2 /* 24. Swap Nodes in Pairs.swift in Sources */,
 				A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */,
+				A408B0992992E6AD00DAEA80 /* 832. Flipping an Image.swift in Sources */,
 				A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */,
 				A408B07929839B9700DAEA80 /* 80. Remove Duplicates from Sorted Array II.swift in Sources */,
 				A455E771294F2359003654B2 /* 560. Subarray Sum Equals K.swift in Sources */,

@@ -157,6 +157,7 @@ Runner(
 //        MinimumDeletionsToMakeArrayDivisible.Solution(),
 //        ConcatenationOfArray.Solution(),
 //        FindMissingObservations.Solution(),
-        RunningSumOf1dArray.Solution(),
+//        RunningSumOf1dArray.Solution(),
+        FlippingAnImage.Solution(),
     ]
 ).run()
