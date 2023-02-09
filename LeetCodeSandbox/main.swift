@@ -159,6 +159,7 @@ Runner(
 //        FindMissingObservations.Solution(),
 //        RunningSumOf1dArray.Solution(),
 //        FlippingAnImage.Solution(),
-        NRepeatedElementInSize2NArray.Solution(),
+//        NRepeatedElementInSize2NArray.Solution(),
+        AdditiveNumber.Solution(),
     ]
 ).run()

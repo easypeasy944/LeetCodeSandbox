@@ -53,6 +53,7 @@
 		A427ADC12975CF2300751FAC /* 496. Next Greater Element I.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADC02975CF2300751FAC /* 496. Next Greater Element I.swift */; };
 		A427ADC32975DD2400751FAC /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADC22975DD2400751FAC /* 739. Daily Temperatures.swift */; };
 		A427ADC72976F31A00751FAC /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADC62976F31A00751FAC /* 86. Partition List.swift */; };
+		A4312B3E2995691D00EF6934 /* 306. Additive Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B3D2995691D00EF6934 /* 306. Additive Number.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -212,6 +213,7 @@
 		A427ADC02975CF2300751FAC /* 496. Next Greater Element I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496. Next Greater Element I.swift"; sourceTree = "<group>"; };
 		A427ADC22975DD2400751FAC /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		A427ADC62976F31A00751FAC /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
+		A4312B3D2995691D00EF6934 /* 306. Additive Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "306. Additive Number.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -475,6 +477,7 @@
 				A408B07E2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift */,
 				A408B08A298D92EA00DAEA80 /* 413. Arithmetic Slices.swift */,
 				A408B092298FC13A00DAEA80 /* 2028. Find Missing Observations.swift */,
+				A4312B3D2995691D00EF6934 /* 306. Additive Number.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -719,6 +722,7 @@
 				A408B093298FC13A00DAEA80 /* 2028. Find Missing Observations.swift in Sources */,
 				A427ADB729749B1500751FAC /* 399. Evaluate Division.swift in Sources */,
 				A473EA342970996A0087E751 /* 1816. Truncate Sentence.swift in Sources */,
+				A4312B3E2995691D00EF6934 /* 306. Additive Number.swift in Sources */,
 				A46FD61228B1216A00D33AF7 /* TestCase.swift in Sources */,
 				A473EA2A296B04CA0087E751 /* 204. Count Primes.swift in Sources */,
 				A408B07F2985588D00DAEA80 /* 122. Best Time to Buy and Sell Stock II.swift in Sources */,
