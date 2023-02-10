@@ -160,6 +160,7 @@ Runner(
 //        RunningSumOf1dArray.Solution(),
 //        FlippingAnImage.Solution(),
 //        NRepeatedElementInSize2NArray.Solution(),
-        AdditiveNumber.Solution(),
+//        AdditiveNumber.Solution(),
+        ShuffleTheArray.Solution(),
     ]
 ).run()

@@ -54,6 +54,7 @@
 		A427ADC32975DD2400751FAC /* 739. Daily Temperatures.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADC22975DD2400751FAC /* 739. Daily Temperatures.swift */; };
 		A427ADC72976F31A00751FAC /* 86. Partition List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A427ADC62976F31A00751FAC /* 86. Partition List.swift */; };
 		A4312B3E2995691D00EF6934 /* 306. Additive Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B3D2995691D00EF6934 /* 306. Additive Number.swift */; };
+		A4312B422996DE4600EF6934 /* 1470. Shuffle the Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B412996DE4600EF6934 /* 1470. Shuffle the Array.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -214,6 +215,7 @@
 		A427ADC22975DD2400751FAC /* 739. Daily Temperatures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "739. Daily Temperatures.swift"; sourceTree = "<group>"; };
 		A427ADC62976F31A00751FAC /* 86. Partition List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "86. Partition List.swift"; sourceTree = "<group>"; };
 		A4312B3D2995691D00EF6934 /* 306. Additive Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "306. Additive Number.swift"; sourceTree = "<group>"; };
+		A4312B412996DE4600EF6934 /* 1470. Shuffle the Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1470. Shuffle the Array.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -546,6 +548,7 @@
 				A408B09629917E9300DAEA80 /* 1480. Running Sum of 1d Array.swift */,
 				A408B0982992E6AD00DAEA80 /* 832. Flipping an Image.swift */,
 				A408B09A299429D700DAEA80 /* 961. N-Repeated Element in Size 2N Array.swift */,
+				A4312B412996DE4600EF6934 /* 1470. Shuffle the Array.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -655,6 +658,7 @@
 				A408B0712981A63D00DAEA80 /* 396. Rotate Function.swift in Sources */,
 				A46FD60F28B1213800D33AF7 /* 6. Zigzag Conversion.swift in Sources */,
 				A427ADAB297300E300751FAC /* 55. Jump Game.swift in Sources */,
+				A4312B422996DE4600EF6934 /* 1470. Shuffle the Array.swift in Sources */,
 				A427ADBD29759B0B00751FAC /* 155. Min Stack.swift in Sources */,
 				A455E7872955F3A5003654B2 /* 344. Reverse String.swift in Sources */,
 				A455E74F2941270C003654B2 /* 436. Find Right Interval.swift in Sources */,
