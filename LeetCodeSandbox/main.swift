@@ -161,6 +161,7 @@ Runner(
 //        FlippingAnImage.Solution(),
 //        NRepeatedElementInSize2NArray.Solution(),
 //        AdditiveNumber.Solution(),
-        ShuffleTheArray.Solution(),
+//        ShuffleTheArray.Solution(),
+        QueueReconstructionByHeight.Solution(),
     ]
 ).run()
