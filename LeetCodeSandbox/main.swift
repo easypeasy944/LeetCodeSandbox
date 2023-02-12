@@ -162,6 +162,7 @@ Runner(
 //        NRepeatedElementInSize2NArray.Solution(),
 //        AdditiveNumber.Solution(),
 //        ShuffleTheArray.Solution(),
-        QueueReconstructionByHeight.Solution(),
+//        QueueReconstructionByHeight.Solution(),
+        SumOfSubarrayMinimums.Solution(),
     ]
 ).run()
