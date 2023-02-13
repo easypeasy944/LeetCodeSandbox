@@ -163,6 +163,7 @@ Runner(
 //        AdditiveNumber.Solution(),
 //        ShuffleTheArray.Solution(),
 //        QueueReconstructionByHeight.Solution(),
-        SumOfSubarrayMinimums.Solution(),
+//        SumOfSubarrayMinimums.Solution(),
+        FinalValueOfVariableAfterPerformingOperations.Solution(),
     ]
 ).run()

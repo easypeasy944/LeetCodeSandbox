@@ -57,6 +57,7 @@
 		A4312B422996DE4600EF6934 /* 1470. Shuffle the Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B412996DE4600EF6934 /* 1470. Shuffle the Array.swift */; };
 		A4312B442997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B432997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift */; };
 		A4312B462999259400EF6934 /* 907. Sum of Subarray Minimums.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B452999259400EF6934 /* 907. Sum of Subarray Minimums.swift */; };
+		A4312B4A299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -220,6 +221,7 @@
 		A4312B412996DE4600EF6934 /* 1470. Shuffle the Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1470. Shuffle the Array.swift"; sourceTree = "<group>"; };
 		A4312B432997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "406. Queue Reconstruction by Height.swift"; sourceTree = "<group>"; };
 		A4312B452999259400EF6934 /* 907. Sum of Subarray Minimums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "907. Sum of Subarray Minimums.swift"; sourceTree = "<group>"; };
+		A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2011. Final Value of Variable After Performing Operations.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -555,6 +557,7 @@
 				A408B0982992E6AD00DAEA80 /* 832. Flipping an Image.swift */,
 				A408B09A299429D700DAEA80 /* 961. N-Repeated Element in Size 2N Array.swift */,
 				A4312B412996DE4600EF6934 /* 1470. Shuffle the Array.swift */,
+				A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -764,6 +767,7 @@
 				A427ADB92974A51300751FAC /* 785. Is Graph Bipartite?.swift in Sources */,
 				A455E77D29559418003654B2 /* 189. Rotate Array.swift in Sources */,
 				A46FD61428B3A0E000D33AF7 /* 17. Letter Combinations of a Phone Number.swift in Sources */,
+				A4312B4A299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift in Sources */,
 				A408B05D297C7F1D00DAEA80 /* 315. Count of Smaller Numbers After Self.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
