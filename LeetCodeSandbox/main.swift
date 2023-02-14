@@ -164,6 +164,7 @@ Runner(
 //        ShuffleTheArray.Solution(),
 //        QueueReconstructionByHeight.Solution(),
 //        SumOfSubarrayMinimums.Solution(),
-        FinalValueOfVariableAfterPerformingOperations.Solution(),
+//        FinalValueOfVariableAfterPerformingOperations.Solution(),
+        RichestCustomerWealth.Solution(),
     ]
 ).run()
