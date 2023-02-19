@@ -166,6 +166,8 @@ Runner(
 //        SumOfSubarrayMinimums.Solution(),
 //        FinalValueOfVariableAfterPerformingOperations.Solution(),
 //        RichestCustomerWealth.Solution(),
-        PartitionToKEqualSumSubsets.Solution(),
+//        PartitionToKEqualSumSubsets.Solution(),
+//        MatchsticksToSquare.Solution(),
+        OnesAndZeroes.Solution(),
     ]
 ).run()

@@ -60,6 +60,8 @@
 		A4312B4A299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */; };
 		A4312B4C299BF1FE00EF6934 /* 1672. Richest Customer Wealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B4B299BF1FE00EF6934 /* 1672. Richest Customer Wealth.swift */; };
 		A4312B5029A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B4F29A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift */; };
+		A4312B5229A2506300EF6934 /* 473. Matchsticks to Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B5129A2506300EF6934 /* 473. Matchsticks to Square.swift */; };
+		A4312B5429A255C100EF6934 /* 474. Ones and Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B5329A255C100EF6934 /* 474. Ones and Zeroes.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -226,6 +228,8 @@
 		A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2011. Final Value of Variable After Performing Operations.swift"; sourceTree = "<group>"; };
 		A4312B4B299BF1FE00EF6934 /* 1672. Richest Customer Wealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1672. Richest Customer Wealth.swift"; sourceTree = "<group>"; };
 		A4312B4F29A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "698. Partition to K Equal Sum Subsets.swift"; sourceTree = "<group>"; };
+		A4312B5129A2506300EF6934 /* 473. Matchsticks to Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "473. Matchsticks to Square.swift"; sourceTree = "<group>"; };
+		A4312B5329A255C100EF6934 /* 474. Ones and Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "474. Ones and Zeroes.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -493,6 +497,8 @@
 				A4312B432997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift */,
 				A4312B452999259400EF6934 /* 907. Sum of Subarray Minimums.swift */,
 				A4312B4F29A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift */,
+				A4312B5129A2506300EF6934 /* 473. Matchsticks to Square.swift */,
+				A4312B5329A255C100EF6934 /* 474. Ones and Zeroes.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -636,6 +642,7 @@
 				A427ADAD2973034F00751FAC /* 216. Combination Sum III.swift in Sources */,
 				A408B0852987C8A500DAEA80 /* 2418. Sort the People.swift in Sources */,
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
+				A4312B5229A2506300EF6934 /* 473. Matchsticks to Square.swift in Sources */,
 				A455E7BB2964943B003654B2 /* 51. N-Queens.swift in Sources */,
 				A4312B442997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift in Sources */,
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,
@@ -656,6 +663,7 @@
 				A408B05B297C739800DAEA80 /* 414. Third Maximum Number.swift in Sources */,
 				A46FD61E28B635FE00D33AF7 /* 39. Combination Sum.swift in Sources */,
 				A408B08729890BAF00DAEA80 /* 1037. Valid Boomerang.swift in Sources */,
+				A4312B5429A255C100EF6934 /* 474. Ones and Zeroes.swift in Sources */,
 				A46FD61628B3A96000D33AF7 /* 13. Roman to Integer.swift in Sources */,
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */,
