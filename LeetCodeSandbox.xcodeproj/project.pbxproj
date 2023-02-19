@@ -59,6 +59,7 @@
 		A4312B462999259400EF6934 /* 907. Sum of Subarray Minimums.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B452999259400EF6934 /* 907. Sum of Subarray Minimums.swift */; };
 		A4312B4A299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */; };
 		A4312B4C299BF1FE00EF6934 /* 1672. Richest Customer Wealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B4B299BF1FE00EF6934 /* 1672. Richest Customer Wealth.swift */; };
+		A4312B5029A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B4F29A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -224,6 +225,7 @@
 		A4312B452999259400EF6934 /* 907. Sum of Subarray Minimums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "907. Sum of Subarray Minimums.swift"; sourceTree = "<group>"; };
 		A4312B49299ABAC100EF6934 /* 2011. Final Value of Variable After Performing Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2011. Final Value of Variable After Performing Operations.swift"; sourceTree = "<group>"; };
 		A4312B4B299BF1FE00EF6934 /* 1672. Richest Customer Wealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1672. Richest Customer Wealth.swift"; sourceTree = "<group>"; };
+		A4312B4F29A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "698. Partition to K Equal Sum Subsets.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -490,6 +492,7 @@
 				A4312B3D2995691D00EF6934 /* 306. Additive Number.swift */,
 				A4312B432997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift */,
 				A4312B452999259400EF6934 /* 907. Sum of Subarray Minimums.swift */,
+				A4312B4F29A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -693,6 +696,7 @@
 				A49B587B2938FF6E009B3591 /* 75. Sort colors.swift in Sources */,
 				A455E749293F66D7003654B2 /* Heap.swift in Sources */,
 				A46FD61A28B4E0D100D33AF7 /* 15. 3Sum.swift in Sources */,
+				A4312B5029A235D800EF6934 /* 698. Partition to K Equal Sum Subsets.swift in Sources */,
 				A473EA382972E8600087E751 /* 287. Find the Duplicate Number.swift in Sources */,
 				A408B057297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift in Sources */,
 				A408B05F297D611900DAEA80 /* 1720. Decode XORed Array.swift in Sources */,

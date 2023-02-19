@@ -165,6 +165,7 @@ Runner(
 //        QueueReconstructionByHeight.Solution(),
 //        SumOfSubarrayMinimums.Solution(),
 //        FinalValueOfVariableAfterPerformingOperations.Solution(),
-        RichestCustomerWealth.Solution(),
+//        RichestCustomerWealth.Solution(),
+        PartitionToKEqualSumSubsets.Solution(),
     ]
 ).run()
