@@ -168,6 +168,7 @@ Runner(
 //        RichestCustomerWealth.Solution(),
 //        PartitionToKEqualSumSubsets.Solution(),
 //        MatchsticksToSquare.Solution(),
-        OnesAndZeroes.Solution(),
+//        OnesAndZeroes.Solution(),
+        LargestPlusSign.Solution(),
     ]
 ).run()
