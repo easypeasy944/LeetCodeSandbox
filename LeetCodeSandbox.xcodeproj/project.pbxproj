@@ -63,6 +63,7 @@
 		A4312B5229A2506300EF6934 /* 473. Matchsticks to Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B5129A2506300EF6934 /* 473. Matchsticks to Square.swift */; };
 		A4312B5429A255C100EF6934 /* 474. Ones and Zeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B5329A255C100EF6934 /* 474. Ones and Zeroes.swift */; };
 		A4312B5629A4F2AA00EF6934 /* 764. Largest Plus Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B5529A4F2AA00EF6934 /* 764. Largest Plus Sign.swift */; };
+		A4312B5A29A8EDD900EF6934 /* 410. Split Array Largest Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4312B5929A8EDD900EF6934 /* 410. Split Array Largest Sum.swift */; };
 		A455E729293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */; };
 		A455E72B293CB37C003654B2 /* 289. Game of Life.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72A293CB37C003654B2 /* 289. Game of Life.swift */; };
 		A455E72D293CBBDC003654B2 /* 290. Word Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */; };
@@ -232,6 +233,7 @@
 		A4312B5129A2506300EF6934 /* 473. Matchsticks to Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "473. Matchsticks to Square.swift"; sourceTree = "<group>"; };
 		A4312B5329A255C100EF6934 /* 474. Ones and Zeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "474. Ones and Zeroes.swift"; sourceTree = "<group>"; };
 		A4312B5529A4F2AA00EF6934 /* 764. Largest Plus Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "764. Largest Plus Sign.swift"; sourceTree = "<group>"; };
+		A4312B5929A8EDD900EF6934 /* 410. Split Array Largest Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "410. Split Array Largest Sum.swift"; sourceTree = "<group>"; };
 		A455E728293CACB9003654B2 /* 209. Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "209. Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		A455E72A293CB37C003654B2 /* 289. Game of Life.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "289. Game of Life.swift"; sourceTree = "<group>"; };
 		A455E72C293CBBDC003654B2 /* 290. Word Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. Word Pattern.swift"; sourceTree = "<group>"; };
@@ -520,6 +522,7 @@
 				A408B05C297C7F1D00DAEA80 /* 315. Count of Smaller Numbers After Self.swift */,
 				A408B08029856AB200DAEA80 /* 123. Best Time to Buy and Sell Stock III.swift */,
 				A408B08C298D98F700DAEA80 /* 2344. Minimum Deletions to Make Array Divisible.swift */,
+				A4312B5929A8EDD900EF6934 /* 410. Split Array Largest Sum.swift */,
 			);
 			path = Hard;
 			sourceTree = "<group>";
@@ -712,6 +715,7 @@
 				A473EA382972E8600087E751 /* 287. Find the Duplicate Number.swift in Sources */,
 				A408B057297B2D3300DAEA80 /* 2155. All Divisions With the Highest Score of a Binary Array.swift in Sources */,
 				A408B05F297D611900DAEA80 /* 1720. Decode XORed Array.swift in Sources */,
+				A4312B5A29A8EDD900EF6934 /* 410. Split Array Largest Sum.swift in Sources */,
 				A455E7A9295C342B003654B2 /* 695. Max Area of Island.swift in Sources */,
 				A408B065297D86FC00DAEA80 /* 232. Implement Queue using Stacks.swift in Sources */,
 				A427ADAF297410A700751FAC /* 517. Super Washing Machines.swift in Sources */,

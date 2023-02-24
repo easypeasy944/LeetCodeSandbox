@@ -169,6 +169,7 @@ Runner(
 //        PartitionToKEqualSumSubsets.Solution(),
 //        MatchsticksToSquare.Solution(),
 //        OnesAndZeroes.Solution(),
-        LargestPlusSign.Solution(),
+//        LargestPlusSign.Solution(),
+        SplitArrayLargestSum.Solution(),
     ]
 ).run()
