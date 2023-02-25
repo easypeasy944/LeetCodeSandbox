@@ -170,6 +170,7 @@ Runner(
 //        MatchsticksToSquare.Solution(),
 //        OnesAndZeroes.Solution(),
 //        LargestPlusSign.Solution(),
-        SplitArrayLargestSum.Solution(),
+//        SplitArrayLargestSum.Solution(),
+        EditDistance.Solution()
     ]
 ).run()
