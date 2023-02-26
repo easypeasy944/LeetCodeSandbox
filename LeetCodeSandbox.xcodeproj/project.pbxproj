@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A4047BB229AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB129AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift */; };
+		A4047BB429ABB89000D04948 /* 494. Target Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB329ABB89000D04948 /* 494. Target Sum.swift */; };
 		A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */; };
 		A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */; };
 		A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B054297B271100DAEA80 /* 561. Array Partition.swift */; };
@@ -181,6 +182,7 @@
 
 /* Begin PBXFileReference section */
 		A4047BB129AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "918. Maximum Sum Circular Subarray.swift"; sourceTree = "<group>"; };
+		A4047BB329ABB89000D04948 /* 494. Target Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "494. Target Sum.swift"; sourceTree = "<group>"; };
 		A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "974. Subarray Sums Divisible by K.swift"; sourceTree = "<group>"; };
 		A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2364. Count Number of Bad Pairs.swift"; sourceTree = "<group>"; };
 		A408B054297B271100DAEA80 /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
@@ -512,6 +514,7 @@
 				A4312B5529A4F2AA00EF6934 /* 764. Largest Plus Sign.swift */,
 				A499076629AA5B75001C2B90 /* 73. Set Matrix Zeroes.swift */,
 				A4047BB129AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift */,
+				A4047BB329ABB89000D04948 /* 494. Target Sum.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -658,6 +661,7 @@
 				A408B0852987C8A500DAEA80 /* 2418. Sort the People.swift in Sources */,
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
 				A4312B5229A2506300EF6934 /* 473. Matchsticks to Square.swift in Sources */,
+				A4047BB429ABB89000D04948 /* 494. Target Sum.swift in Sources */,
 				A455E7BB2964943B003654B2 /* 51. N-Queens.swift in Sources */,
 				A4312B442997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift in Sources */,
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,
