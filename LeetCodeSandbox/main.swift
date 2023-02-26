@@ -171,6 +171,8 @@ Runner(
 //        OnesAndZeroes.Solution(),
 //        LargestPlusSign.Solution(),
 //        SplitArrayLargestSum.Solution(),
-        EditDistance.Solution()
+//        EditDistance.Solution(),
+//        SetMatrixZeroes.Solution(),
+        MaximumSumCircularSubarray.Solution(),
     ]
 ).run()
