@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A4047BB229AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB129AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift */; };
 		A4047BB429ABB89000D04948 /* 494. Target Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB329ABB89000D04948 /* 494. Target Sum.swift */; };
+		A4047BB629AD3F6C00D04948 /* 486. Predict the Winner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB529AD3F6C00D04948 /* 486. Predict the Winner.swift */; };
 		A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */; };
 		A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */; };
 		A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B054297B271100DAEA80 /* 561. Array Partition.swift */; };
@@ -183,6 +184,7 @@
 /* Begin PBXFileReference section */
 		A4047BB129AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "918. Maximum Sum Circular Subarray.swift"; sourceTree = "<group>"; };
 		A4047BB329ABB89000D04948 /* 494. Target Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "494. Target Sum.swift"; sourceTree = "<group>"; };
+		A4047BB529AD3F6C00D04948 /* 486. Predict the Winner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "486. Predict the Winner.swift"; sourceTree = "<group>"; };
 		A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "974. Subarray Sums Divisible by K.swift"; sourceTree = "<group>"; };
 		A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2364. Count Number of Bad Pairs.swift"; sourceTree = "<group>"; };
 		A408B054297B271100DAEA80 /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
@@ -515,6 +517,7 @@
 				A499076629AA5B75001C2B90 /* 73. Set Matrix Zeroes.swift */,
 				A4047BB129AB9B1F00D04948 /* 918. Maximum Sum Circular Subarray.swift */,
 				A4047BB329ABB89000D04948 /* 494. Target Sum.swift */,
+				A4047BB529AD3F6C00D04948 /* 486. Predict the Winner.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -689,6 +692,7 @@
 				A46FD60728B11EBF00D33AF7 /* main.swift in Sources */,
 				A455E7992958CA33003654B2 /* 427. Construct Quad Tree.swift in Sources */,
 				A408B06F297FDA9B00DAEA80 /* 692. Top K Frequent Words.swift in Sources */,
+				A4047BB629AD3F6C00D04948 /* 486. Predict the Winner.swift in Sources */,
 				A455E79F2959F6B3003654B2 /* 455. Assign Cookies.swift in Sources */,
 				A49B587829374809009B3591 /* 120.Triangle.swift in Sources */,
 				A4F4FADD290EAFD300FA2F15 /* 124. Binary Tree Maximum Path Sum.swift in Sources */,

@@ -174,6 +174,7 @@ Runner(
 //        EditDistance.Solution(),
 //        SetMatrixZeroes.Solution(),
 //        MaximumSumCircularSubarray.Solution(),
-        TargetSum.Solution(),
+//        TargetSum.Solution(),
+        PredictTheWinner.Solution(),
     ]
 ).run()
