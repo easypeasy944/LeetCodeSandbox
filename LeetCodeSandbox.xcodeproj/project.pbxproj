@@ -11,6 +11,7 @@
 		A4047BB429ABB89000D04948 /* 494. Target Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB329ABB89000D04948 /* 494. Target Sum.swift */; };
 		A4047BB629AD3F6C00D04948 /* 486. Predict the Winner.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB529AD3F6C00D04948 /* 486. Predict the Winner.swift */; };
 		A4047BBA29B39D3800D04948 /* 464. Can I Win.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BB929B39D3800D04948 /* 464. Can I Win.swift */; };
+		A4047BC029B521FF00D04948 /* 718. Maximum Length of Repeated Subarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4047BBF29B521FF00D04948 /* 718. Maximum Length of Repeated Subarray.swift */; };
 		A408B0512979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */; };
 		A408B0532979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */; };
 		A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */ = {isa = PBXBuildFile; fileRef = A408B054297B271100DAEA80 /* 561. Array Partition.swift */; };
@@ -187,6 +188,7 @@
 		A4047BB329ABB89000D04948 /* 494. Target Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "494. Target Sum.swift"; sourceTree = "<group>"; };
 		A4047BB529AD3F6C00D04948 /* 486. Predict the Winner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "486. Predict the Winner.swift"; sourceTree = "<group>"; };
 		A4047BB929B39D3800D04948 /* 464. Can I Win.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "464. Can I Win.swift"; sourceTree = "<group>"; };
+		A4047BBF29B521FF00D04948 /* 718. Maximum Length of Repeated Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "718. Maximum Length of Repeated Subarray.swift"; sourceTree = "<group>"; };
 		A408B0502979627800DAEA80 /* 974. Subarray Sums Divisible by K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "974. Subarray Sums Divisible by K.swift"; sourceTree = "<group>"; };
 		A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2364. Count Number of Bad Pairs.swift"; sourceTree = "<group>"; };
 		A408B054297B271100DAEA80 /* 561. Array Partition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "561. Array Partition.swift"; sourceTree = "<group>"; };
@@ -521,6 +523,7 @@
 				A408B068297DD83100DAEA80 /* 2288. Apply Discount to Prices.swift */,
 				A408B0522979790300DAEA80 /* 2364. Count Number of Bad Pairs.swift */,
 				A4047BB929B39D3800D04948 /* 464. Can I Win.swift */,
+				A4047BBF29B521FF00D04948 /* 718. Maximum Length of Repeated Subarray.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -659,6 +662,7 @@
 				A455E7AD295DC8AF003654B2 /* 143. Reorder List.swift in Sources */,
 				A4A7016428B7B9AF00BB3EAE /* 27. Remove Element.swift in Sources */,
 				A408B055297B271100DAEA80 /* 561. Array Partition.swift in Sources */,
+				A4047BC029B521FF00D04948 /* 718. Maximum Length of Repeated Subarray.swift in Sources */,
 				A408B08D298D98F700DAEA80 /* 2344. Minimum Deletions to Make Array Divisible.swift in Sources */,
 				A408B06D297F124900DAEA80 /* 215. Kth Largest Element in an Array.swift in Sources */,
 				A455E7B9296491C1003654B2 /* 2341. Maximum Number of Pairs in Array.swift in Sources */,

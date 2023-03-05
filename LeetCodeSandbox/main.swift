@@ -176,6 +176,7 @@ Runner(
 //        MaximumSumCircularSubarray.Solution(),
 //        TargetSum.Solution(),
 //        PredictTheWinner.Solution(),
-        CanIWin.Solution(),
+//        CanIWin.Solution(),
+        MaximumLengthOfRepeatedSubarray.Solution(),
     ]
 ).run()
