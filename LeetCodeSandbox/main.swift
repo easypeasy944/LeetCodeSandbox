@@ -178,6 +178,7 @@ Runner(
 //        PredictTheWinner.Solution(),
 //        CanIWin.Solution(),
 //        MaximumLengthOfRepeatedSubarray.Solution(),
-        CoinChange.Solution(),
+//        CoinChange.Solution(),
+        OptimalDivision.Solution(),
     ]
 ).run()
