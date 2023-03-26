@@ -179,6 +179,7 @@ Runner(
 //        CanIWin.Solution(),
 //        MaximumLengthOfRepeatedSubarray.Solution(),
 //        CoinChange.Solution(),
-        OptimalDivision.Solution(),
+//        OptimalDivision.Solution(),
+        ValidTriangleNumber.Solution(),
     ]
 ).run()
