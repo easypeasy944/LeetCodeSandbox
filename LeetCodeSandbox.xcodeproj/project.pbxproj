@@ -161,6 +161,7 @@
 		A4A7016E28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */; };
 		A4A7017028BBD52500BB3EAE /* 67. Add Binary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */; };
 		A4C4D34229CF8B58000BBE80 /* 611. Valid Triangle Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4C4D34129CF8B58000BBE80 /* 611. Valid Triangle Number.swift */; };
+		A4C4D34A29E1AB4D000BBE80 /* 378. Kth Smallest Element in a Sorted Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4C4D34929E1AB4D000BBE80 /* 378. Kth Smallest Element in a Sorted Matrix.swift */; };
 		A4ED365F29783E1400704C0D /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED365E29783E1400704C0D /* Queue.swift */; };
 		A4ED366129783F9C00704C0D /* 19. Remove Nth Node From End of List.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */; };
 		A4ED36632978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */; };
@@ -342,6 +343,7 @@
 		A4A7016D28B8D8B400BB3EAE /* 74. Search a 2D Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. Search a 2D Matrix.swift"; sourceTree = "<group>"; };
 		A4A7016F28BBD52500BB3EAE /* 67. Add Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "67. Add Binary.swift"; sourceTree = "<group>"; };
 		A4C4D34129CF8B58000BBE80 /* 611. Valid Triangle Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "611. Valid Triangle Number.swift"; sourceTree = "<group>"; };
+		A4C4D34929E1AB4D000BBE80 /* 378. Kth Smallest Element in a Sorted Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "378. Kth Smallest Element in a Sorted Matrix.swift"; sourceTree = "<group>"; };
 		A4ED365E29783E1400704C0D /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		A4ED366029783F9C00704C0D /* 19. Remove Nth Node From End of List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19. Remove Nth Node From End of List.swift"; sourceTree = "<group>"; };
 		A4ED36622978490400704C0D /* 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.swift"; sourceTree = "<group>"; };
@@ -533,6 +535,7 @@
 				A4047BEC29C64BAD00D04948 /* 322. Coin Change.swift */,
 				A4047BEE29C740BD00D04948 /* 553. Optimal Division.swift */,
 				A4C4D34129CF8B58000BBE80 /* 611. Valid Triangle Number.swift */,
+				A4C4D34929E1AB4D000BBE80 /* 378. Kth Smallest Element in a Sorted Matrix.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -681,6 +684,7 @@
 				A4A7016828B8BB8700BB3EAE /* 49. Group Anagrams.swift in Sources */,
 				A4312B5229A2506300EF6934 /* 473. Matchsticks to Square.swift in Sources */,
 				A4047BB429ABB89000D04948 /* 494. Target Sum.swift in Sources */,
+				A4C4D34A29E1AB4D000BBE80 /* 378. Kth Smallest Element in a Sorted Matrix.swift in Sources */,
 				A455E7BB2964943B003654B2 /* 51. N-Queens.swift in Sources */,
 				A4312B442997EF0900EF6934 /* 406. Queue Reconstruction by Height.swift in Sources */,
 				A455E79D2958DEA5003654B2 /* 1968. Array With Elements Not Equal to Average of Neighbors.swift in Sources */,

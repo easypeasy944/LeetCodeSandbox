@@ -180,6 +180,7 @@ Runner(
 //        MaximumLengthOfRepeatedSubarray.Solution(),
 //        CoinChange.Solution(),
 //        OptimalDivision.Solution(),
-        ValidTriangleNumber.Solution(),
+//        ValidTriangleNumber.Solution(),
+        KthSmallestElementInASortedMatrix.Solution(),
     ]
 ).run()
